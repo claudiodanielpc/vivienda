@@ -1,10 +1,6 @@
-# Financiamientos de vivienda en México
+# Repositorio de datos de vivienda de México
 
-El  siguiente repositorio contiene información de los financiamientos de vivienda en México de 2013 al último corte del Sistema Nacional de Información e Indicadores de Vivienda (SNIIV) de la Comisión Nacional de Vivienda (CONAVI).
+El  siguiente repositorio contiene información relevante de vivienda en México. En cada *branch* encontrarán un tema diferente.
 
-A diferencia del SNIIV, aquí solo basta con usar la liga del archivo del repositorio para poder trabajar con la información en el lenguaje de tu preferencia, agregarla y hacer los filtros y cruces deseados.
+Comienzo la alimentación de éste con datos de los **financiamientos de vivienda**. Esta información viene del **Sistema Nacional de Indicadores de Vivienda (SNIIV)** que administra la Comisión Nacional de Vivienda (CONAVI) y que en algún momento pasará a manos de la Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). Esta infommación se acostumbraba su actualización mensual pero actualmente, eso es muy variable.
 
-
-## Fuentes  de información
-*Sistema Nacional de Información e Indicadores de Vivienda (SNIIV):*
-http://sniiv.conavi.gob.mx/inicio/index.aspx
