@@ -2343,17 +2343,17 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,34,14934979.59
 ,,,Nueva,105,51538629.51
 ,,,Usada,183,84142971.1
-,Chihuahua,junio,Ampliación y rehabilitación,"1,649",6443524.67
+,Chihuahua,junio,Ampliación y rehabilitación,1649,6443524.67
 ,,,Con disponibilidad de terreno,15,5393218.61
 ,,,Nueva,564,283929909.7
 ,,,Pago de pasivos,3,1056341.15
-,,,Usada,"1,120",501930228.9
+,,,Usada,1120,501930228.9
 ,Ciudad de México,junio,Ampliación y rehabilitación,791,89841669.88
 ,,,Nueva,334,180455698.6
 ,,,Pago de pasivos,4,1377338.89
 ,,,Usada,215,163339473.5
 ,Coahuila de Zaragoza,junio,Ampliación y rehabilitación,582,192026.01
-,,,Nueva,"1,128",518571152.7
+,,,Nueva,1128,518571152.7
 ,,,Usada,857,394605785.2
 ,Colima,junio,Ampliación y rehabilitación,24,
 ,,,Con disponibilidad de terreno,1,582508.69
@@ -2365,7 +2365,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,388,156964571.2
 ,Guanajuato,junio,Ampliación y rehabilitación,317,133213.9
 ,,,Con disponibilidad de terreno,3,3259027.01
-,,,Nueva,"1,506",669450286.8
+,,,Nueva,1506,669450286.8
 ,,,Pago de pasivos,1,764455.93
 ,,,Usada,689,309357751.4
 ,Guerrero,junio,Ampliación y rehabilitación,65,
@@ -2378,9 +2378,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,177,83063141.53
 ,Jalisco,junio,Ampliación y rehabilitación,787,37186444.91
 ,,,Con disponibilidad de terreno,21,11060662.1
-,,,Nueva,"1,686",735829337.3
+,,,Nueva,1686,735829337.3
 ,,,Pago de pasivos,3,947969.7
-,,,Usada,"1,017",475074491.7
+,,,Usada,1017,475074491.7
 ,Michoacán de Ocampo,junio,Ampliación y rehabilitación,77,426799.89
 ,,,Con disponibilidad de terreno,1,471789.61
 ,,,Nueva,339,144647707.2
@@ -2390,9 +2390,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,102,70671350.25
 ,,,Pago de pasivos,1,374006.94
 ,,,Usada,140,79364601.74
-,México,junio,Ampliación y rehabilitación,"1,388",89156335.43
+,México,junio,Ampliación y rehabilitación,1388,89156335.43
 ,,,Con disponibilidad de terreno,10,4848226.59
-,,,Nueva,"1,072",561094229.6
+,,,Nueva,1072,561094229.6
 ,,,Pago de pasivos,2,2442202.63
 ,,,Usada,892,467564445.5
 ,Nayarit,junio,Ampliación y rehabilitación,57,1586879.39
@@ -2400,7 +2400,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,95,39003651.25
 ,Nuevo León,junio,Ampliación y rehabilitación,725,21681582.4
 ,,,Con disponibilidad de terreno,281,115763642.4
-,,,Nueva,"2,347",1074716592
+,,,Nueva,2347,1074716592
 ,,,Usada,471,232267868.6
 ,Oaxaca,junio,Ampliación y rehabilitación,97,
 ,,,Con disponibilidad de terreno,2,1353430.88
