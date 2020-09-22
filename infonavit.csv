@@ -51,7 +51,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,337,171414027.5
 ,,,Pago de pasivos,8,2685939.44
 ,,,Usada,747,327945017.6
-,,marzo,Ampliación y rehabilitación,"1,145",450334.4
+,,marzo,Ampliación y rehabilitación,1145,450334.4
 ,,,Con disponibilidad de terreno,5,3251640.84
 ,,,Nueva,424,218001294.6
 ,,,Pago de pasivos,8,4408931.94
@@ -61,7 +61,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,429,218839844.8
 ,,,Pago de pasivos,4,2013145.1
 ,,,Usada,810,361687808.3
-,,mayo,Ampliación y rehabilitación,"1,236",1800763.05
+,,mayo,Ampliación y rehabilitación,1236,1800763.05
 ,,,Con disponibilidad de terreno,7,7652019.4
 ,,,Nueva,580,280250389.6
 ,,,Pago de pasivos,8,3643895.95
@@ -71,12 +71,12 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,489,242664094.4
 ,,,Pago de pasivos,3,3004146.19
 ,,,Usada,889,393337743.5
-,,julio,Ampliación y rehabilitación,"1,082",1640785.3
+,,julio,Ampliación y rehabilitación,1082,1640785.3
 ,,,Con disponibilidad de terreno,3,3772550.02
 ,,,Nueva,479,243698453.8
 ,,,Pago de pasivos,7,3434574.57
 ,,,Usada,992,448660935
-,,agosto,Ampliación y rehabilitación,"1,036",938931.73
+,,agosto,Ampliación y rehabilitación,1036,938931.73
 ,,,Nueva,518,265739746.9
 ,,,Pago de pasivos,3,1380586.68
 ,,,Usada,919,432687326.7
@@ -253,98 +253,98 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,19,8263887.87
 ,,,Nueva,95,46907981.19
 ,,,Usada,227,108695100.1
-,Chihuahua,enero,Ampliación y rehabilitación,"1,023",4687076.81
+,Chihuahua,enero,Ampliación y rehabilitación,1023,4687076.81
 ,,,Con disponibilidad de terreno,1,390425.09
 ,,,Nueva,291,111936458.2
 ,,,Pago de pasivos,2,1058740.33
 ,,,Usada,665,272690765.5
-,,febrero,Ampliación y rehabilitación,"1,510",3311383.65
+,,febrero,Ampliación y rehabilitación,1510,3311383.65
 ,,,Con disponibilidad de terreno,2,1706779.87
 ,,,Nueva,314,161808027.9
 ,,,Pago de pasivos,4,2453718.16
-,,,Usada,"1,107",454522670.7
-,,marzo,Ampliación y rehabilitación,"2,064",7511009.11
+,,,Usada,1107,454522670.7
+,,marzo,Ampliación y rehabilitación,2064,7511009.11
 ,,,Con disponibilidad de terreno,3,2260067.52
 ,,,Nueva,463,200752773.8
 ,,,Pago de pasivos,1,436146.58
-,,,Usada,"1,188",476788421.8
-,,abril,Ampliación y rehabilitación,"1,685",8183714.01
+,,,Usada,1188,476788421.8
+,,abril,Ampliación y rehabilitación,1685,8183714.01
 ,,,Con disponibilidad de terreno,1,129114.45
 ,,,Nueva,464,219448582.3
 ,,,Pago de pasivos,2,786305.35
-,,,Usada,"1,098",465133466.6
-,,mayo,Ampliación y rehabilitación,"2,092",3068534.64
+,,,Usada,1098,465133466.6
+,,mayo,Ampliación y rehabilitación,2092,3068534.64
 ,,,Con disponibilidad de terreno,2,825544.8
 ,,,Nueva,674,276732584.2
 ,,,Pago de pasivos,5,2550220.39
-,,,Usada,"1,337",545655192.6
-,,junio,Ampliación y rehabilitación,"1,562",4662362.47
+,,,Usada,1337,545655192.6
+,,junio,Ampliación y rehabilitación,1562,4662362.47
 ,,,Con disponibilidad de terreno,2,2376613.02
 ,,,Nueva,541,221413167.4
 ,,,Pago de pasivos,3,1568793.73
-,,,Usada,"1,344",573665796.1
-,,julio,Ampliación y rehabilitación,"2,112",3073656.99
+,,,Usada,1344,573665796.1
+,,julio,Ampliación y rehabilitación,2112,3073656.99
 ,,,Nueva,551,242816588.5
 ,,,Pago de pasivos,10,4937263.54
-,,,Usada,"1,386",607010101.3
-,,agosto,Ampliación y rehabilitación,"2,049",3195959.56
+,,,Usada,1386,607010101.3
+,,agosto,Ampliación y rehabilitación,2049,3195959.56
 ,,,Con disponibilidad de terreno,2,981885.51
 ,,,Nueva,427,193161829.2
 ,,,Pago de pasivos,4,1184726.88
-,,,Usada,"1,217",521837582.9
-,,septiembre,Ampliación y rehabilitación,"1,691",7803958.07
+,,,Usada,1217,521837582.9
+,,septiembre,Ampliación y rehabilitación,1691,7803958.07
 ,,,Con disponibilidad de terreno,1,479488.66
 ,,,Nueva,372,167882666.5
 ,,,Usada,819,349450313.9
-,,octubre,Ampliación y rehabilitación,"1,638",1376358.94
+,,octubre,Ampliación y rehabilitación,1638,1376358.94
 ,,,Con disponibilidad de terreno,31,12181533.7
 ,,,Nueva,419,198984155.6
 ,,,Pago de pasivos,8,4063279.94
-,,,Usada,"1,440",609393177.4
-,,noviembre,Ampliación y rehabilitación,"1,422",1445674.4
+,,,Usada,1440,609393177.4
+,,noviembre,Ampliación y rehabilitación,1422,1445674.4
 ,,,Con disponibilidad de terreno,23,9827781.05
 ,,,Nueva,434,200821012.3
 ,,,Pago de pasivos,6,2348598.6
-,,,Usada,"1,139",484270207.3
-,,diciembre,Ampliación y rehabilitación,"1,079",1096501.15
+,,,Usada,1139,484270207.3
+,,diciembre,Ampliación y rehabilitación,1079,1096501.15
 ,,,Con disponibilidad de terreno,25,9462885.38
 ,,,Nueva,612,297562039.5
 ,,,Pago de pasivos,2,503765.61
-,,,Usada,"1,290",573410502.2
+,,,Usada,1290,573410502.2
 ,Ciudad de México,enero,Ampliación y rehabilitación,688,41239619.91
 ,,,Nueva,222,96309075.43
 ,,,Pago de pasivos,4,1743572.45
 ,,,Usada,83,58745176.98
-,,febrero,Ampliación y rehabilitación,"1,095",45835232.68
+,,febrero,Ampliación y rehabilitación,1095,45835232.68
 ,,,Con disponibilidad de terreno,1,1168285.04
 ,,,Nueva,260,126376090.1
 ,,,Pago de pasivos,6,2983767.77
 ,,,Usada,242,185780388.5
-,,marzo,Ampliación y rehabilitación,"1,502",53516602.1
+,,marzo,Ampliación y rehabilitación,1502,53516602.1
 ,,,Nueva,282,139472302.5
 ,,,Pago de pasivos,11,8487037.42
 ,,,Usada,312,241205776.9
-,,abril,Ampliación y rehabilitación,"1,305",68073723.06
+,,abril,Ampliación y rehabilitación,1305,68073723.06
 ,,,Nueva,233,147058805.4
 ,,,Pago de pasivos,8,5728699.55
 ,,,Usada,335,252517149.7
-,,mayo,Ampliación y rehabilitación,"1,340",69314100.07
+,,mayo,Ampliación y rehabilitación,1340,69314100.07
 ,,,Nueva,352,185625784.1
 ,,,Pago de pasivos,7,4019078.77
 ,,,Usada,340,261365597.1
-,,junio,Ampliación y rehabilitación,"1,097",100096399.2
+,,junio,Ampliación y rehabilitación,1097,100096399.2
 ,,,Nueva,380,227577828.7
 ,,,Pago de pasivos,4,2347882.61
 ,,,Usada,356,265006801.9
-,,julio,Ampliación y rehabilitación,"1,188",102978060.9
+,,julio,Ampliación y rehabilitación,1188,102978060.9
 ,,,Nueva,369,218864056.8
 ,,,Pago de pasivos,5,2000814.87
 ,,,Usada,415,289951178.3
-,,agosto,Ampliación y rehabilitación,"1,366",109221694
+,,agosto,Ampliación y rehabilitación,1366,109221694
 ,,,Nueva,398,248213573.8
 ,,,Pago de pasivos,4,1915083.48
 ,,,Usada,361,263165467.2
-,,septiembre,Ampliación y rehabilitación,"1,165",109229377.1
+,,septiembre,Ampliación y rehabilitación,1165,109229377.1
 ,,,Nueva,346,193930050.8
 ,,,Pago de pasivos,4,3511627.03
 ,,,Usada,342,243983940.9
@@ -364,20 +364,20 @@ año,estado,mes,modalidad,cred,monto
 ,Coahuila de Zaragoza,enero,Ampliación y rehabilitación,878,721125.23
 ,,,Nueva,481,206358557.5
 ,,,Usada,429,192045424.3
-,,febrero,Ampliación y rehabilitación,"1,273",2564801.56
+,,febrero,Ampliación y rehabilitación,1273,2564801.56
 ,,,Nueva,672,288116519.6
 ,,,Pago de pasivos,2,1513045.8
 ,,,Usada,653,298076377.1
-,,marzo,Ampliación y rehabilitación,"1,772",1512602.71
+,,marzo,Ampliación y rehabilitación,1772,1512602.71
 ,,,Con disponibilidad de terreno,14,5178606.26
 ,,,Nueva,890,395324274.8
 ,,,Usada,734,339543636.3
-,,abril,Ampliación y rehabilitación,"1,191",984036.79
+,,abril,Ampliación y rehabilitación,1191,984036.79
 ,,,Nueva,796,350333061.9
 ,,,Pago de pasivos,1,584871.62
 ,,,Usada,792,352932047.8
 ,,mayo,Ampliación y rehabilitación,956,1987708.25
-,,,Nueva,"1,105",480405297.1
+,,,Nueva,1105,480405297.1
 ,,,Pago de pasivos,3,1640689.44
 ,,,Usada,846,388351616.9
 ,,junio,Ampliación y rehabilitación,832,1846840.58
@@ -402,7 +402,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,1,375967.96
 ,,,Nueva,953,421648077.4
 ,,,Pago de pasivos,2,849344.2
-,,,Usada,"1,005",462748105.3
+,,,Usada,1005,462748105.3
 ,,noviembre,Ampliación y rehabilitación,522,1049406.49
 ,,,Con disponibilidad de terreno,9,3451390.48
 ,,,Nueva,809,366251549.8
@@ -411,7 +411,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,5,1995148.26
 ,,,Nueva,989,475999584.2
 ,,,Pago de pasivos,3,1925981.4
-,,,Usada,"1,277",578350225.3
+,,,Usada,1277,578350225.3
 ,Colima,enero,Ampliación y rehabilitación,31,
 ,,,Nueva,73,29231161.4
 ,,,Usada,28,11277078.03
@@ -538,7 +538,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,641,287408798.3
 ,,julio,Ampliación y rehabilitación,251,
 ,,,Con disponibilidad de terreno,6,2719535.2
-,,,Nueva,"1,042",454339530.3
+,,,Nueva,1042,454339530.3
 ,,,Usada,554,242159331.1
 ,,agosto,Ampliación y rehabilitación,495,94685.04
 ,,,Con disponibilidad de terreno,17,6916536.68
@@ -546,12 +546,12 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,729,312547800.2
 ,,septiembre,Ampliación y rehabilitación,374,431153.39
 ,,,Con disponibilidad de terreno,14,7702701.64
-,,,Nueva,"1,000",439624591
+,,,Nueva,1000,439624591
 ,,,Pago de pasivos,1,981864.26
 ,,,Usada,618,283680929.8
 ,,octubre,Ampliación y rehabilitación,427,
 ,,,Con disponibilidad de terreno,3,2637966.16
-,,,Nueva,"1,073",487968435
+,,,Nueva,1073,487968435
 ,,,Pago de pasivos,1,1073403.21
 ,,,Usada,784,342035177.4
 ,,noviembre,Ampliación y rehabilitación,381,
@@ -561,7 +561,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,652,289201882.8
 ,,diciembre,Ampliación y rehabilitación,265,129991.58
 ,,,Con disponibilidad de terreno,8,3229578.64
-,,,Nueva,"1,304",591798494.7
+,,,Nueva,1304,591798494.7
 ,,,Pago de pasivos,1,828240.21
 ,,,Usada,926,399209052.4
 ,Guerrero,enero,Ampliación y rehabilitación,53,
@@ -663,64 +663,64 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,755,351307165.8
 ,,,Usada,194,95861748.65
 ,Jalisco,enero,Ampliación y rehabilitación,610,21870312.52
-,,,Nueva,"1,368",563352910
+,,,Nueva,1368,563352910
 ,,,Pago de pasivos,6,3222611.79
 ,,,Usada,630,276328197.7
 ,,febrero,Ampliación y rehabilitación,808,14079431.37
 ,,,Con disponibilidad de terreno,11,7463683.36
-,,,Nueva,"1,158",480216697.3
+,,,Nueva,1158,480216697.3
 ,,,Pago de pasivos,5,2800060.54
 ,,,Usada,706,302579098
-,,marzo,Ampliación y rehabilitación,"1,287",26163370.72
+,,marzo,Ampliación y rehabilitación,1287,26163370.72
 ,,,Con disponibilidad de terreno,8,5684059.62
-,,,Nueva,"1,306",540551936.8
+,,,Nueva,1306,540551936.8
 ,,,Pago de pasivos,6,1891750.11
 ,,,Usada,718,307798418.5
-,,abril,Ampliación y rehabilitación,"1,296",20238249.97
+,,abril,Ampliación y rehabilitación,1296,20238249.97
 ,,,Con disponibilidad de terreno,6,4647418.33
-,,,Nueva,"1,228",532639653.6
+,,,Nueva,1228,532639653.6
 ,,,Pago de pasivos,1,406348
 ,,,Usada,762,338622963.9
-,,mayo,Ampliación y rehabilitación,"1,580",40544856.88
+,,mayo,Ampliación y rehabilitación,1580,40544856.88
 ,,,Con disponibilidad de terreno,7,6238430.9
-,,,Nueva,"1,350",555220894.6
+,,,Nueva,1350,555220894.6
 ,,,Pago de pasivos,1,486543.07
 ,,,Usada,807,369194697.8
-,,junio,Ampliación y rehabilitación,"1,117",28177367.3
+,,junio,Ampliación y rehabilitación,1117,28177367.3
 ,,,Con disponibilidad de terreno,4,4379568.71
-,,,Nueva,"1,415",592527516
+,,,Nueva,1415,592527516
 ,,,Pago de pasivos,6,2858095.18
 ,,,Usada,822,373871792.1
-,,julio,Ampliación y rehabilitación,"1,320",41469157.64
+,,julio,Ampliación y rehabilitación,1320,41469157.64
 ,,,Con disponibilidad de terreno,38,28107147.62
-,,,Nueva,"1,785",727930397.9
+,,,Nueva,1785,727930397.9
 ,,,Pago de pasivos,5,2486140.19
 ,,,Usada,881,397321665.2
-,,agosto,Ampliación y rehabilitación,"1,214",34504253.14
+,,agosto,Ampliación y rehabilitación,1214,34504253.14
 ,,,Con disponibilidad de terreno,30,17098790.93
-,,,Nueva,"1,442",612309181.1
+,,,Nueva,1442,612309181.1
 ,,,Pago de pasivos,5,2196351.77
 ,,,Usada,968,432895131.8
 ,,septiembre,Ampliación y rehabilitación,800,44957461.47
 ,,,Con disponibilidad de terreno,13,7331175.71
-,,,Nueva,"1,282",532642630.4
+,,,Nueva,1282,532642630.4
 ,,,Pago de pasivos,11,5224713.69
 ,,,Usada,867,393397614.2
 ,,octubre,Ampliación y rehabilitación,308,4099396.98
 ,,,Con disponibilidad de terreno,14,6150723.58
-,,,Nueva,"1,633",697692027
+,,,Nueva,1633,697692027
 ,,,Pago de pasivos,5,2153663.17
 ,,,Usada,995,449991318
 ,,noviembre,Ampliación y rehabilitación,204,
 ,,,Con disponibilidad de terreno,28,18281813.46
-,,,Nueva,"1,384",572051610.5
+,,,Nueva,1384,572051610.5
 ,,,Pago de pasivos,3,1996980.67
 ,,,Usada,865,399054240.1
 ,,diciembre,Ampliación y rehabilitación,195,60000.07
 ,,,Con disponibilidad de terreno,29,16602690.26
-,,,Nueva,"1,482",627876577.3
+,,,Nueva,1482,627876577.3
 ,,,Pago de pasivos,7,2969447.75
-,,,Usada,"1,003",463330468.3
+,,,Usada,1003,463330468.3
 ,Michoacán de Ocampo,enero,Ampliación y rehabilitación,115,
 ,,,Con disponibilidad de terreno,5,2743806.06
 ,,,Nueva,96,39335409.21
@@ -815,59 +815,59 @@ año,estado,mes,modalidad,cred,monto
 ,,diciembre,Ampliación y rehabilitación,154,
 ,,,Nueva,95,70015919.12
 ,,,Usada,215,117819388.9
-,México,enero,Ampliación y rehabilitación,"1,529",72283031.4
+,México,enero,Ampliación y rehabilitación,1529,72283031.4
 ,,,Nueva,803,418515868.1
 ,,,Pago de pasivos,1,833415.98
 ,,,Usada,422,233569105.4
-,,febrero,Ampliación y rehabilitación,"2,331",77560090.6
+,,febrero,Ampliación y rehabilitación,2331,77560090.6
 ,,,Nueva,802,429142132.8
 ,,,Pago de pasivos,7,3765215.51
 ,,,Usada,642,354557395.7
-,,marzo,Ampliación y rehabilitación,"3,341",97075727.38
+,,marzo,Ampliación y rehabilitación,3341,97075727.38
 ,,,Con disponibilidad de terreno,3,2954012.73
-,,,Nueva,"1,152",584426264.8
+,,,Nueva,1152,584426264.8
 ,,,Pago de pasivos,6,4357629.51
 ,,,Usada,910,482908974.1
-,,abril,Ampliación y rehabilitación,"2,696",96532398.76
+,,abril,Ampliación y rehabilitación,2696,96532398.76
 ,,,Con disponibilidad de terreno,1,567562.72
 ,,,Nueva,970,499139424.3
 ,,,Pago de pasivos,1,170286.38
 ,,,Usada,870,464118666.6
-,,mayo,Ampliación y rehabilitación,"2,582",109214262.2
-,,,Nueva,"1,156",594837494.4
+,,mayo,Ampliación y rehabilitación,2582,109214262.2
+,,,Nueva,1156,594837494.4
 ,,,Pago de pasivos,8,3908995.09
-,,,Usada,"1,112",600689298.9
-,,junio,Ampliación y rehabilitación,"2,115",124478885.4
+,,,Usada,1112,600689298.9
+,,junio,Ampliación y rehabilitación,2115,124478885.4
 ,,,Con disponibilidad de terreno,2,2793011.02
-,,,Nueva,"1,098",581314305.1
+,,,Nueva,1098,581314305.1
 ,,,Pago de pasivos,13,8520908.11
-,,,Usada,"1,166",624678072.3
-,,julio,Ampliación y rehabilitación,"2,518",143489195.5
+,,,Usada,1166,624678072.3
+,,julio,Ampliación y rehabilitación,2518,143489195.5
 ,,,Con disponibilidad de terreno,2,2388546.18
-,,,Nueva,"1,022",556468059
+,,,Nueva,1022,556468059
 ,,,Pago de pasivos,5,3314733.81
-,,,Usada,"1,165",646387855.2
-,,agosto,Ampliación y rehabilitación,"2,471",128835548.5
+,,,Usada,1165,646387855.2
+,,agosto,Ampliación y rehabilitación,2471,128835548.5
 ,,,Nueva,922,460203319.6
 ,,,Pago de pasivos,3,1487945.33
-,,,Usada,"1,208",657297227.4
-,,septiembre,Ampliación y rehabilitación,"2,144",156688779.9
+,,,Usada,1208,657297227.4
+,,septiembre,Ampliación y rehabilitación,2144,156688779.9
 ,,,Nueva,914,506778535.9
 ,,,Pago de pasivos,4,3455522.37
-,,,Usada,"1,245",658045507.4
-,,octubre,Ampliación y rehabilitación,"1,470",23032400.94
+,,,Usada,1245,658045507.4
+,,octubre,Ampliación y rehabilitación,1470,23032400.94
 ,,,Con disponibilidad de terreno,1,637136.41
 ,,,Nueva,947,482337930.7
 ,,,Pago de pasivos,8,3216224.5
-,,,Usada,"1,369",753262137.3
-,,noviembre,Ampliación y rehabilitación,"1,353",898731.84
+,,,Usada,1369,753262137.3
+,,noviembre,Ampliación y rehabilitación,1353,898731.84
 ,,,Nueva,797,422070886.2
 ,,,Pago de pasivos,2,1410775.2
-,,,Usada,"1,230",671447103.9
+,,,Usada,1230,671447103.9
 ,,diciembre,Ampliación y rehabilitación,951,929696.67
-,,,Nueva,"1,035",555019517
+,,,Nueva,1035,555019517
 ,,,Pago de pasivos,9,5587889.39
-,,,Usada,"1,630",893595769.4
+,,,Usada,1630,893595769.4
 ,Nayarit,enero,Ampliación y rehabilitación,60,203828.11
 ,,,Nueva,38,14467747.12
 ,,,Usada,38,18842689.12
@@ -919,64 +919,64 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,160,69621973.77
 ,Nuevo León,enero,Ampliación y rehabilitación,921,8678580.54
 ,,,Con disponibilidad de terreno,85,31158911.94
-,,,Nueva,"2,498",1060357436
+,,,Nueva,2498,1060357436
 ,,,Pago de pasivos,8,4949904.14
 ,,,Usada,701,323986259.9
-,,febrero,Ampliación y rehabilitación,"1,380",10584589.36
+,,febrero,Ampliación y rehabilitación,1380,10584589.36
 ,,,Con disponibilidad de terreno,123,44227123.02
-,,,Nueva,"2,133",936918820.5
+,,,Nueva,2133,936918820.5
 ,,,Pago de pasivos,10,5596479.99
 ,,,Usada,710,336668896.7
-,,marzo,Ampliación y rehabilitación,"1,792",16717562.35
+,,marzo,Ampliación y rehabilitación,1792,16717562.35
 ,,,Con disponibilidad de terreno,173,64173451.96
-,,,Nueva,"2,658",1135236929
+,,,Nueva,2658,1135236929
 ,,,Pago de pasivos,11,5451856.24
 ,,,Usada,824,401378155.4
-,,abril,Ampliación y rehabilitación,"1,538",10759669.96
+,,abril,Ampliación y rehabilitación,1538,10759669.96
 ,,,Con disponibilidad de terreno,120,43744272.3
-,,,Nueva,"2,349",1039633061
+,,,Nueva,2349,1039633061
 ,,,Pago de pasivos,6,3369574.8
 ,,,Usada,754,367482684.6
-,,mayo,Ampliación y rehabilitación,"1,775",18790817.69
+,,mayo,Ampliación y rehabilitación,1775,18790817.69
 ,,,Con disponibilidad de terreno,176,67676695.35
-,,,Nueva,"3,032",1313706810
+,,,Nueva,3032,1313706810
 ,,,Pago de pasivos,8,2692696.43
 ,,,Usada,716,336447709.3
-,,junio,Ampliación y rehabilitación,"1,398",17010449.79
+,,junio,Ampliación y rehabilitación,1398,17010449.79
 ,,,Con disponibilidad de terreno,121,45486248
-,,,Nueva,"2,464",1075450726
+,,,Nueva,2464,1075450726
 ,,,Pago de pasivos,16,8723353.88
-,,,Usada,"1,016",500936514.9
-,,julio,Ampliación y rehabilitación,"1,709",23146278.42
+,,,Usada,1016,500936514.9
+,,julio,Ampliación y rehabilitación,1709,23146278.42
 ,,,Con disponibilidad de terreno,191,73568584.84
-,,,Nueva,"3,250",1399106512
+,,,Nueva,3250,1399106512
 ,,,Pago de pasivos,10,4580635.67
-,,,Usada,"1,128",552178266.5
-,,agosto,Ampliación y rehabilitación,"1,417",23018327.27
+,,,Usada,1128,552178266.5
+,,agosto,Ampliación y rehabilitación,1417,23018327.27
 ,,,Con disponibilidad de terreno,142,53011764.99
-,,,Nueva,"2,423",1048849394
+,,,Nueva,2423,1048849394
 ,,,Pago de pasivos,6,3606982.13
-,,,Usada,"1,001",483514576.9
-,,septiembre,Ampliación y rehabilitación,"1,053",21940788.35
+,,,Usada,1001,483514576.9
+,,septiembre,Ampliación y rehabilitación,1053,21940788.35
 ,,,Con disponibilidad de terreno,156,59382976.28
-,,,Nueva,"2,718",1186842154
+,,,Nueva,2718,1186842154
 ,,,Pago de pasivos,14,7099096.16
-,,,Usada,"1,002",467617200.4
+,,,Usada,1002,467617200.4
 ,,octubre,Ampliación y rehabilitación,813,3913883.53
 ,,,Con disponibilidad de terreno,144,56745323.54
-,,,Nueva,"2,953",1315269853
+,,,Nueva,2953,1315269853
 ,,,Pago de pasivos,8,3340709.49
-,,,Usada,"1,147",544864308.9
+,,,Usada,1147,544864308.9
 ,,noviembre,Ampliación y rehabilitación,619,3476600.05
 ,,,Con disponibilidad de terreno,168,66882069.33
-,,,Nueva,"2,631",1157242174
+,,,Nueva,2631,1157242174
 ,,,Pago de pasivos,15,5909154.59
 ,,,Usada,933,446135503.2
 ,,diciembre,Ampliación y rehabilitación,402,6677069.3
 ,,,Con disponibilidad de terreno,331,126696801.1
-,,,Nueva,"2,824",1245614438
+,,,Nueva,2824,1245614438
 ,,,Pago de pasivos,9,3827385.05
-,,,Usada,"1,113",528499421.6
+,,,Usada,1113,528499421.6
 ,Oaxaca,enero,Ampliación y rehabilitación,118,931566.07
 ,,,Con disponibilidad de terreno,1,973936.42
 ,,,Nueva,18,6096299.6
@@ -1032,7 +1032,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,334,168623539.4
 ,,,Pago de pasivos,3,1462464.16
 ,,,Usada,191,94478660.71
-,,marzo,Ampliación y rehabilitación,"1,091",3807276.23
+,,marzo,Ampliación y rehabilitación,1091,3807276.23
 ,,,Con disponibilidad de terreno,31,23073896.05
 ,,,Nueva,403,202550132.9
 ,,,Usada,258,130689128.5
@@ -1135,53 +1135,53 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,277,146184601.4
 ,,diciembre,Ampliación y rehabilitación,141,
 ,,,Con disponibilidad de terreno,16,9512189.57
-,,,Nueva,"1,294",722860011.3
+,,,Nueva,1294,722860011.3
 ,,,Pago de pasivos,3,2411219.3
 ,,,Usada,432,227748542.1
 ,Quintana Roo,enero,Ampliación y rehabilitación,52,
-,,,Nueva,"1,012",451017395
+,,,Nueva,1012,451017395
 ,,,Usada,58,25059000.21
 ,,febrero,Ampliación y rehabilitación,87,
 ,,,Nueva,866,377328519.6
 ,,,Pago de pasivos,1,1444842.21
 ,,,Usada,137,57367725.95
 ,,marzo,Ampliación y rehabilitación,109,
-,,,Nueva,"1,061",473798532.9
+,,,Nueva,1061,473798532.9
 ,,,Pago de pasivos,1,263773.42
 ,,,Usada,142,67489296.98
 ,,abril,Ampliación y rehabilitación,270,
-,,,Nueva,"1,027",456051135
+,,,Nueva,1027,456051135
 ,,,Pago de pasivos,1,479557.12
 ,,,Usada,108,47174651.22
 ,,mayo,Ampliación y rehabilitación,800,
-,,,Nueva,"1,062",436471863.2
+,,,Nueva,1062,436471863.2
 ,,,Pago de pasivos,1,1354810.74
 ,,,Usada,120,58586689.36
 ,,junio,Ampliación y rehabilitación,180,
-,,,Nueva,"1,486",630731588.6
+,,,Nueva,1486,630731588.6
 ,,,Usada,147,70740665.67
 ,,julio,Ampliación y rehabilitación,71,
-,,,Nueva,"1,447",615076993
+,,,Nueva,1447,615076993
 ,,,Usada,139,63026386.55
 ,,agosto,Ampliación y rehabilitación,72,83334.34
-,,,Nueva,"1,108",481576796.1
+,,,Nueva,1108,481576796.1
 ,,,Pago de pasivos,2,712738.67
 ,,,Usada,156,74553120.81
 ,,septiembre,Ampliación y rehabilitación,74,268636.94
-,,,Nueva,"1,067",474128247.9
+,,,Nueva,1067,474128247.9
 ,,,Pago de pasivos,23,5543685.94
 ,,,Usada,157,71387094.08
 ,,octubre,Ampliación y rehabilitación,43,
-,,,Nueva,"1,231",567501913
+,,,Nueva,1231,567501913
 ,,,Pago de pasivos,10,3852236.32
 ,,,Usada,180,85285057.39
 ,,noviembre,Ampliación y rehabilitación,50,
-,,,Nueva,"1,044",469721186.7
+,,,Nueva,1044,469721186.7
 ,,,Pago de pasivos,1,307679.77
 ,,,Usada,161,78818564.14
 ,,diciembre,Ampliación y rehabilitación,47,
 ,,,Con disponibilidad de terreno,1,665826.37
-,,,Nueva,"1,102",517663847.2
+,,,Nueva,1102,517663847.2
 ,,,Pago de pasivos,11,2761601.71
 ,,,Usada,196,97488238.49
 ,San Luis Potosí,enero,Ampliación y rehabilitación,123,608779.11
@@ -1434,7 +1434,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,26,10446347.25
 ,,,Nueva,660,281027164.8
 ,,,Usada,697,299782099.8
-,,agosto,Ampliación y rehabilitación,"1,059",3803438.63
+,,agosto,Ampliación y rehabilitación,1059,3803438.63
 ,,,Con disponibilidad de terreno,29,11204713.91
 ,,,Nueva,891,391235609.3
 ,,,Pago de pasivos,1,293065.61
@@ -1768,16 +1768,16 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,325,165218810.1
 ,,,Pago de pasivos,4,1716283.62
 ,,,Usada,668,301198461.6
-,,febrero,Ampliación y rehabilitación,"1,299",1578767.82
+,,febrero,Ampliación y rehabilitación,1299,1578767.82
 ,,,Con disponibilidad de terreno,4,1804862.39
 ,,,Nueva,248,105539658.9
 ,,,Pago de pasivos,2,1191120.53
 ,,,Usada,843,369375055.2
-,,marzo,Ampliación y rehabilitación,"1,480",2908670.59
+,,marzo,Ampliación y rehabilitación,1480,2908670.59
 ,,,Con disponibilidad de terreno,31,11965358.21
 ,,,Nueva,358,162176794
 ,,,Pago de pasivos,2,668605.25
-,,,Usada,"1,053",468247937.4
+,,,Usada,1053,468247937.4
 ,,abril,Ampliación y rehabilitación,947,2201251.77
 ,,,Con disponibilidad de terreno,2,2223447.85
 ,,,Nueva,255,129603252.4
@@ -1887,7 +1887,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,666,301924716.3
 ,,,Usada,446,197540901.2
 ,,mayo,Ampliación y rehabilitación,175,
-,,,Nueva,"1,042",466812141.8
+,,,Nueva,1042,466812141.8
 ,,,Usada,478,207525654.3
 ,Guerrero,enero,Ampliación y rehabilitación,78,
 ,,,Con disponibilidad de terreno,3,2074710.71
@@ -1930,27 +1930,27 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,128,68382064.71
 ,Jalisco,enero,Ampliación y rehabilitación,269,920372.71
 ,,,Con disponibilidad de terreno,2,1047718.02
-,,,Nueva,"1,127",502490329.1
+,,,Nueva,1127,502490329.1
 ,,,Pago de pasivos,3,2127217.24
 ,,,Usada,407,184972032.5
 ,,febrero,Ampliación y rehabilitación,465,7060665.01
 ,,,Con disponibilidad de terreno,15,6711178.96
-,,,Nueva,"1,128",452803399
+,,,Nueva,1128,452803399
 ,,,Pago de pasivos,1,705118.3
 ,,,Usada,429,203335595.2
 ,,marzo,Ampliación y rehabilitación,518,12521725.99
 ,,,Con disponibilidad de terreno,56,35922132.32
-,,,Nueva,"1,374",548048134.1
+,,,Nueva,1374,548048134.1
 ,,,Pago de pasivos,4,2588951.81
 ,,,Usada,824,389108832.5
 ,,abril,Ampliación y rehabilitación,419,21474368.65
 ,,,Con disponibilidad de terreno,3,1767851.83
-,,,Nueva,"1,356",585881348.7
+,,,Nueva,1356,585881348.7
 ,,,Pago de pasivos,6,4320026.75
 ,,,Usada,700,325229726.2
 ,,mayo,Ampliación y rehabilitación,599,31066424.62
 ,,,Con disponibilidad de terreno,25,16419665.3
-,,,Nueva,"1,505",619667434.8
+,,,Nueva,1505,619667434.8
 ,,,Pago de pasivos,2,813076.78
 ,,,Usada,915,426041133.6
 ,Michoacán de Ocampo,enero,Ampliación y rehabilitación,76,
@@ -2006,13 +2006,13 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,2,3295625.15
 ,,,Nueva,928,466775259.4
 ,,,Pago de pasivos,7,5668223.17
-,,,Usada,"1,111",615433674.6
-,,abril,Ampliación y rehabilitación,"1,252",32718691.07
+,,,Usada,1111,615433674.6
+,,abril,Ampliación y rehabilitación,1252,32718691.07
 ,,,Nueva,823,415142859.2
 ,,,Pago de pasivos,1,296489.24
 ,,,Usada,745,408566830.2
-,,mayo,Ampliación y rehabilitación,"1,099",49566303.87
-,,,Nueva,"1,106",520958223
+,,mayo,Ampliación y rehabilitación,1099,49566303.87
+,,,Nueva,1106,520958223
 ,,,Pago de pasivos,1,291439.93
 ,,,Usada,710,377024380
 ,Nayarit,enero,Ampliación y rehabilitación,64,
@@ -2034,26 +2034,26 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,99,45171099.94
 ,Nuevo León,enero,Ampliación y rehabilitación,467,2420507.02
 ,,,Con disponibilidad de terreno,62,24657287.07
-,,,Nueva,"1,986",893940163.4
+,,,Nueva,1986,893940163.4
 ,,,Pago de pasivos,5,2092464.23
 ,,,Usada,423,217250709.9
 ,,febrero,Ampliación y rehabilitación,846,14893276.85
 ,,,Con disponibilidad de terreno,186,75511741.05
-,,,Nueva,"2,376",1054695094
+,,,Nueva,2376,1054695094
 ,,,Pago de pasivos,6,4442694.49
 ,,,Usada,670,344157179.9
 ,,marzo,Ampliación y rehabilitación,912,15668822.66
 ,,,Con disponibilidad de terreno,145,59935207.86
-,,,Nueva,"2,477",1091745811
+,,,Nueva,2477,1091745811
 ,,,Pago de pasivos,6,3458086.17
-,,,Usada,"1,116",550765273.2
+,,,Usada,1116,550765273.2
 ,,abril,Ampliación y rehabilitación,327,8101479.95
 ,,,Con disponibilidad de terreno,86,35190760.34
-,,,Nueva,"2,623",1162576910
+,,,Nueva,2623,1162576910
 ,,,Usada,72,31382851.47
 ,,mayo,Ampliación y rehabilitación,460,14790863.75
 ,,,Con disponibilidad de terreno,89,37577346.37
-,,,Nueva,"2,078",929937175.3
+,,,Nueva,2078,929937175.3
 ,,,Usada,35,13933526.79
 ,Oaxaca,enero,Ampliación y rehabilitación,100,
 ,,,Nueva,13,6936897.75
@@ -2128,7 +2128,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Pago de pasivos,9,2619868.66
 ,,,Usada,123,65859315.94
 ,,marzo,Ampliación y rehabilitación,52,
-,,,Nueva,"1,477",570468537.9
+,,,Nueva,1477,570468537.9
 ,,,Pago de pasivos,3,761442.03
 ,,,Usada,170,76320587.51
 ,,abril,Ampliación y rehabilitación,12,
@@ -2343,17 +2343,17 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,34,14934979.59
 ,,,Nueva,105,51538629.51
 ,,,Usada,183,84142971.1
-,Chihuahua,junio,Ampliación y rehabilitación,"1,649",6443524.67
+,Chihuahua,junio,Ampliación y rehabilitación,1649,6443524.67
 ,,,Con disponibilidad de terreno,15,5393218.61
 ,,,Nueva,564,283929909.7
 ,,,Pago de pasivos,3,1056341.15
-,,,Usada,"1,120",501930228.9
+,,,Usada,1120,501930228.9
 ,Ciudad de México,junio,Ampliación y rehabilitación,791,89841669.88
 ,,,Nueva,334,180455698.6
 ,,,Pago de pasivos,4,1377338.89
 ,,,Usada,215,163339473.5
 ,Coahuila de Zaragoza,junio,Ampliación y rehabilitación,582,192026.01
-,,,Nueva,"1,128",518571152.7
+,,,Nueva,1128,518571152.7
 ,,,Usada,857,394605785.2
 ,Colima,junio,Ampliación y rehabilitación,24,
 ,,,Con disponibilidad de terreno,1,582508.69
@@ -2365,7 +2365,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,388,156964571.2
 ,Guanajuato,junio,Ampliación y rehabilitación,317,133213.9
 ,,,Con disponibilidad de terreno,3,3259027.01
-,,,Nueva,"1,506",669450286.8
+,,,Nueva,1506,669450286.8
 ,,,Pago de pasivos,1,764455.93
 ,,,Usada,689,309357751.4
 ,Guerrero,junio,Ampliación y rehabilitación,65,
@@ -2378,9 +2378,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,177,83063141.53
 ,Jalisco,junio,Ampliación y rehabilitación,787,37186444.91
 ,,,Con disponibilidad de terreno,21,11060662.1
-,,,Nueva,"1,686",735829337.3
+,,,Nueva,1686,735829337.3
 ,,,Pago de pasivos,3,947969.7
-,,,Usada,"1,017",475074491.7
+,,,Usada,1017,475074491.7
 ,Michoacán de Ocampo,junio,Ampliación y rehabilitación,77,426799.89
 ,,,Con disponibilidad de terreno,1,471789.61
 ,,,Nueva,339,144647707.2
@@ -2390,9 +2390,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,102,70671350.25
 ,,,Pago de pasivos,1,374006.94
 ,,,Usada,140,79364601.74
-,México,junio,Ampliación y rehabilitación,"1,388",89156335.43
+,México,junio,Ampliación y rehabilitación,1388,89156335.43
 ,,,Con disponibilidad de terreno,10,4848226.59
-,,,Nueva,"1,072",561094229.6
+,,,Nueva,1072,561094229.6
 ,,,Pago de pasivos,2,2442202.63
 ,,,Usada,892,467564445.5
 ,Nayarit,junio,Ampliación y rehabilitación,57,1586879.39
@@ -2400,7 +2400,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Usada,95,39003651.25
 ,Nuevo León,junio,Ampliación y rehabilitación,725,21681582.4
 ,,,Con disponibilidad de terreno,281,115763642.4
-,,,Nueva,"2,347",1074716592
+,,,Nueva,2347,1074716592
 ,,,Usada,471,232267868.6
 ,Oaxaca,junio,Ampliación y rehabilitación,97,
 ,,,Con disponibilidad de terreno,2,1353430.88
@@ -2479,7 +2479,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,16,7672927.75
 ,,,Nueva,45,22437450.03
 ,,,Usada,138,67389482.5
-,Chihuahua,julio,Ampliación y rehabilitación,"2,335",4563691.3
+,Chihuahua,julio,Ampliación y rehabilitación,2335,4563691.3
 ,,,Con disponibilidad de terreno,14,4326285.72
 ,,,Nueva,405,200642435.7
 ,,,Pago de pasivos,3,1477526.87
@@ -2503,7 +2503,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Pago de pasivos,1,1876197.79
 ,,,Usada,295,119172113.8
 ,Guanajuato,julio,Ampliación y rehabilitación,552,
-,,,Nueva,"1,361",600805846.8
+,,,Nueva,1361,600805846.8
 ,,,Usada,554,246839749.6
 ,Guerrero,julio,Ampliación y rehabilitación,74,
 ,,,Nueva,58,29625923.62
@@ -2512,9 +2512,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,12,6934747.97
 ,,,Nueva,584,305615185.8
 ,,,Usada,137,70785324.77
-,Jalisco,julio,Ampliación y rehabilitación,"1,005",24014092.16
+,Jalisco,julio,Ampliación y rehabilitación,1005,24014092.16
 ,,,Con disponibilidad de terreno,54,35304942.35
-,,,Nueva,"1,748",733050590.2
+,,,Nueva,1748,733050590.2
 ,,,Pago de pasivos,2,1572418.72
 ,,,Usada,945,433813867.9
 ,Michoacán de Ocampo,julio,Ampliación y rehabilitación,133,
@@ -2526,17 +2526,17 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,70,45830119.1
 ,,,Pago de pasivos,1,312080.95
 ,,,Usada,111,57565572.13
-,México,julio,Ampliación y rehabilitación,"1,990",87300759.22
+,México,julio,Ampliación y rehabilitación,1990,87300759.22
 ,,,Con disponibilidad de terreno,17,6411545.98
-,,,Nueva,"1,012",519230038.7
+,,,Nueva,1012,519230038.7
 ,,,Pago de pasivos,3,1633633.92
-,,,Usada,"1,032",549263561.2
+,,,Usada,1032,549263561.2
 ,Nayarit,julio,Ampliación y rehabilitación,53,1044922.95
 ,,,Nueva,63,30971025.01
 ,,,Usada,72,32543258.2
-,Nuevo León,julio,Ampliación y rehabilitación,"1,312",34014622.49
+,Nuevo León,julio,Ampliación y rehabilitación,1312,34014622.49
 ,,,Con disponibilidad de terreno,241,102951214.9
-,,,Nueva,"2,423",1115640112
+,,,Nueva,2423,1115640112
 ,,,Pago de pasivos,5,3185626.35
 ,,,Usada,830,410751062.4
 ,Oaxaca,julio,Ampliación y rehabilitación,88,
