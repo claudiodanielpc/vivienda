@@ -2479,7 +2479,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,16,7672927.75
 ,,,Nueva,45,22437450.03
 ,,,Usada,138,67389482.5
-,Chihuahua,julio,Ampliación y rehabilitación,"2,335",4563691.3
+,Chihuahua,julio,Ampliación y rehabilitación,2335,4563691.3
 ,,,Con disponibilidad de terreno,14,4326285.72
 ,,,Nueva,405,200642435.7
 ,,,Pago de pasivos,3,1477526.87
@@ -2503,7 +2503,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Pago de pasivos,1,1876197.79
 ,,,Usada,295,119172113.8
 ,Guanajuato,julio,Ampliación y rehabilitación,552,
-,,,Nueva,"1,361",600805846.8
+,,,Nueva,1361,600805846.8
 ,,,Usada,554,246839749.6
 ,Guerrero,julio,Ampliación y rehabilitación,74,
 ,,,Nueva,58,29625923.62
@@ -2512,9 +2512,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Con disponibilidad de terreno,12,6934747.97
 ,,,Nueva,584,305615185.8
 ,,,Usada,137,70785324.77
-,Jalisco,julio,Ampliación y rehabilitación,"1,005",24014092.16
+,Jalisco,julio,Ampliación y rehabilitación,1005,24014092.16
 ,,,Con disponibilidad de terreno,54,35304942.35
-,,,Nueva,"1,748",733050590.2
+,,,Nueva,1748,733050590.2
 ,,,Pago de pasivos,2,1572418.72
 ,,,Usada,945,433813867.9
 ,Michoacán de Ocampo,julio,Ampliación y rehabilitación,133,
@@ -2526,17 +2526,17 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,70,45830119.1
 ,,,Pago de pasivos,1,312080.95
 ,,,Usada,111,57565572.13
-,México,julio,Ampliación y rehabilitación,"1,990",87300759.22
+,México,julio,Ampliación y rehabilitación,1990,87300759.22
 ,,,Con disponibilidad de terreno,17,6411545.98
-,,,Nueva,"1,012",519230038.7
+,,,Nueva,1012,519230038.7
 ,,,Pago de pasivos,3,1633633.92
-,,,Usada,"1,032",549263561.2
+,,,Usada,1032,549263561.2
 ,Nayarit,julio,Ampliación y rehabilitación,53,1044922.95
 ,,,Nueva,63,30971025.01
 ,,,Usada,72,32543258.2
-,Nuevo León,julio,Ampliación y rehabilitación,"1,312",34014622.49
+,Nuevo León,julio,Ampliación y rehabilitación,1312,34014622.49
 ,,,Con disponibilidad de terreno,241,102951214.9
-,,,Nueva,"2,423",1115640112
+,,,Nueva,2423,1115640112
 ,,,Pago de pasivos,5,3185626.35
 ,,,Usada,830,410751062.4
 ,Oaxaca,julio,Ampliación y rehabilitación,88,
