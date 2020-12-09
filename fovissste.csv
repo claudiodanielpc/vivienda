@@ -1407,4 +1407,68 @@ año,estado,mes,modalidad,cred,monto
 2020,Veracruz de Ignacio de la Llave,octubre,Vivienda Usada,276,203929336.3
 2020,Yucatán,octubre,Vivienda Usada,60,43213377.51
 2020,Zacatecas,octubre,Vivienda Usada,48,30377490.56
-,tot,,,1,1
+2020,Aguascalientes,noviembre,Vivienda Nueva,43,24562891.23
+2020,Baja California,noviembre,Vivienda Nueva,16,10074056.44
+2020,Baja California Sur,noviembre,Vivienda Nueva,30,19716525.4
+2020,Campeche,noviembre,Vivienda Nueva,3,2047434.63
+2020,Chiapas,noviembre,Vivienda Nueva,45,29364063.42
+2020,Chihuahua,noviembre,Vivienda Nueva,26,17772007.15
+2020,Ciudad de México,noviembre,Vivienda Nueva,52,21855986.97
+2020,Coahuila de Zaragoza,noviembre,Vivienda Nueva,35,22981673.47
+2020,Colima,noviembre,Vivienda Nueva,26,18498338.07
+2020,Durango,noviembre,Vivienda Nueva,27,18038353.48
+2020,Guanajuato,noviembre,Vivienda Nueva,34,23074702.26
+2020,Guerrero,noviembre,Vivienda Nueva,35,26019980.19
+2020,Hidalgo,noviembre,Vivienda Nueva,116,84878415.91
+2020,Jalisco,noviembre,Vivienda Nueva,71,52781486.38
+2020,México,noviembre,Vivienda Nueva,193,123729024
+2020,Michoacán de Ocampo,noviembre,Vivienda Nueva,52,32527081.22
+2020,Morelos,noviembre,Vivienda Nueva,154,156162719.2
+2020,Nayarit,noviembre,Vivienda Nueva,18,12432422.91
+2020,Nuevo León,noviembre,Vivienda Nueva,46,26692782.22
+2020,Oaxaca,noviembre,Vivienda Nueva,12,9688609.65
+2020,Puebla,noviembre,Vivienda Nueva,59,37267832.37
+2020,Querétaro,noviembre,Vivienda Nueva,52,40845579.51
+2020,Quintana Roo,noviembre,Vivienda Nueva,90,59090221.36
+2020,San Luis Potosí,noviembre,Vivienda Nueva,55,36365730.51
+2020,Sinaloa,noviembre,Vivienda Nueva,59,41791892.17
+2020,Sonora,noviembre,Vivienda Nueva,40,31233158.68
+2020,Tabasco,noviembre,Vivienda Nueva,12,10905072.82
+2020,Tamaulipas,noviembre,Vivienda Nueva,11,5879162.56
+2020,Tlaxcala,noviembre,Vivienda Nueva,13,9856118.3
+2020,Veracruz de Ignacio de la Llave,noviembre,Vivienda Nueva,48,30513507.12
+2020,Yucatán,noviembre,Vivienda Nueva,54,36093694.48
+2020,Zacatecas,noviembre,Vivienda Nueva,21,15080281.65
+2020,Aguascalientes,noviembre,Vivienda Usada,21,13681802.23
+2020,Baja California,noviembre,Vivienda Usada,32,24178066.95
+2020,Baja California Sur,noviembre,Vivienda Usada,43,29760111.23
+2020,Campeche,noviembre,Vivienda Usada,45,32966379.31
+2020,Chiapas,noviembre,Vivienda Usada,149,113787545
+2020,Chihuahua,noviembre,Vivienda Usada,80,53168533.86
+2020,Ciudad de México,noviembre,Vivienda Usada,196,146109625.7
+2020,Coahuila de Zaragoza,noviembre,Vivienda Usada,82,58476398.74
+2020,Colima,noviembre,Vivienda Usada,11,7148939.58
+2020,Durango,noviembre,Vivienda Usada,52,32503860.54
+2020,Guanajuato,noviembre,Vivienda Usada,44,28267446.14
+2020,Guerrero,noviembre,Vivienda Usada,100,74121788.83
+2020,Hidalgo,noviembre,Vivienda Usada,101,70045258.84
+2020,Jalisco,noviembre,Vivienda Usada,32,22835771.42
+2020,México,noviembre,Vivienda Usada,155,107432695.9
+2020,Michoacán de Ocampo,noviembre,Vivienda Usada,51,32558558.05
+2020,Morelos,noviembre,Vivienda Usada,62,51118870.93
+2020,Nayarit,noviembre,Vivienda Usada,33,23741350.96
+2020,Nuevo León,noviembre,Vivienda Usada,39,25821180.06
+2020,Oaxaca,noviembre,Vivienda Usada,50,36381749.89
+2020,Puebla,noviembre,Vivienda Usada,37,27771937.77
+2020,Querétaro,noviembre,Vivienda Usada,16,12674722.89
+2020,Quintana Roo,noviembre,Vivienda Usada,45,30516517.14
+2020,San Luis Potosí,noviembre,Vivienda Usada,53,34089798.22
+2020,Sinaloa,noviembre,Vivienda Usada,75,51200701.32
+2020,Sonora,noviembre,Vivienda Usada,33,21094239.03
+2020,Tabasco,noviembre,Vivienda Usada,68,49187797.76
+2020,Tamaulipas,noviembre,Vivienda Usada,66,47461028.36
+2020,Tlaxcala,noviembre,Vivienda Usada,35,29183114.41
+2020,Veracruz de Ignacio de la Llave,noviembre,Vivienda Usada,153,109004876.9
+2020,Yucatán,noviembre,Vivienda Usada,36,24394434.3
+2020,Zacatecas,noviembre,Vivienda Usada,22,15644115.22
+,,,tot,1,1
