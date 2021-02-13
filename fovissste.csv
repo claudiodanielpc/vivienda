@@ -5,7 +5,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,12,8547985.78
 ,,marzo,Vivienda Nueva,65,35617751.31
 ,,,Vivienda Usada,20,13332563.82
-,,abril,Vivienda Nueva,60,43649210.30
+,,abril,Vivienda Nueva,60,43649210.3
 ,,,Vivienda Usada,11,7671402.31
 ,,mayo,Vivienda Nueva,40,27424516.97
 ,,,Vivienda Usada,14,11056562.32
@@ -21,12 +21,12 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,46,29261060.53
 ,,noviembre,Vivienda Nueva,33,20523492.09
 ,,,Vivienda Usada,30,17540256.21
-,,diciembre,Vivienda Nueva,44,24143210.40
+,,diciembre,Vivienda Nueva,44,24143210.4
 ,,,Vivienda Usada,16,10077906.43
 ,Baja California,enero,Vivienda Nueva,21,12589263.45
 ,,,Vivienda Usada,11,9477998.28
 ,,febrero,Vivienda Nueva,19,12903705.41
-,,,Vivienda Usada,10,9704751.10
+,,,Vivienda Usada,10,9704751.1
 ,,marzo,Vivienda Nueva,36,21860748.39
 ,,,Vivienda Usada,31,22596834.79
 ,,abril,Vivienda Nueva,20,11860959.78
@@ -38,7 +38,7 @@ año,estado,mes,modalidad,cred,monto
 ,,julio,Vivienda Nueva,37,29586000.29
 ,,,Vivienda Usada,22,17366538.28
 ,,agosto,Vivienda Nueva,35,28878426.57
-,,,Vivienda Usada,26,19673068.00
+,,,Vivienda Usada,26,19673068
 ,,septiembre,Vivienda Nueva,28,20833990.56
 ,,,Vivienda Usada,19,13140816.36
 ,,octubre,Vivienda Nueva,35,23789620.73
@@ -58,9 +58,9 @@ año,estado,mes,modalidad,cred,monto
 ,,mayo,Vivienda Nueva,23,15618512.14
 ,,,Vivienda Usada,31,22031220.31
 ,,junio,Vivienda Nueva,35,28654118.08
-,,,Vivienda Usada,43,30639016.30
+,,,Vivienda Usada,43,30639016.3
 ,,julio,Vivienda Nueva,43,34064563.55
-,,,Vivienda Usada,25,17610592.50
+,,,Vivienda Usada,25,17610592.5
 ,,agosto,Vivienda Nueva,46,32691622.04
 ,,,Vivienda Usada,26,18483989.81
 ,,septiembre,Vivienda Nueva,44,28726163.92
@@ -71,16 +71,16 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,41,24983524.37
 ,,diciembre,Vivienda Nueva,30,19205863.26
 ,,,Vivienda Usada,38,22442181.06
-,Campeche,enero,Vivienda Nueva,1,1358000.00
+,Campeche,enero,Vivienda Nueva,1,1358000
 ,,,Vivienda Usada,7,6389418.03
-,,febrero,Vivienda Nueva,3,2313362.50
+,,febrero,Vivienda Nueva,3,2313362.5
 ,,,Vivienda Usada,20,13197446.41
 ,,marzo,Vivienda Nueva,9,5567720.14
 ,,,Vivienda Usada,42,29724223.46
 ,,abril,Vivienda Nueva,10,6687524.18
 ,,,Vivienda Usada,28,21256099.83
-,,mayo,Vivienda Nueva,7,5619521.50
-,,,Vivienda Usada,57,43839423.50
+,,mayo,Vivienda Nueva,7,5619521.5
+,,,Vivienda Usada,57,43839423.5
 ,,junio,Vivienda Nueva,13,9260244.43
 ,,,Vivienda Usada,48,39803562.35
 ,,julio,Vivienda Nueva,5,3743404.98
@@ -91,7 +91,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,37,27721746.72
 ,,octubre,Vivienda Nueva,8,6298730.18
 ,,,Vivienda Usada,55,41902542.14
-,,noviembre,Vivienda Nueva,4,2923000.00
+,,noviembre,Vivienda Nueva,4,2923000
 ,,,Vivienda Usada,42,31877860.21
 ,,diciembre,Vivienda Nueva,9,6966831.29
 ,,,Vivienda Usada,26,17267637.82
@@ -100,21 +100,21 @@ año,estado,mes,modalidad,cred,monto
 ,,febrero,Vivienda Nueva,44,24010291.46
 ,,,Vivienda Usada,99,72145584.18
 ,,marzo,Vivienda Nueva,42,24524189.59
-,,,Vivienda Usada,187,125348197.90
+,,,Vivienda Usada,187,125348197.9
 ,,abril,Vivienda Nueva,15,8319072.55
 ,,,Vivienda Usada,115,79905822.23
 ,,mayo,Vivienda Nueva,40,27055566.18
-,,,Vivienda Usada,152,115188086.60
+,,,Vivienda Usada,152,115188086.6
 ,,junio,Vivienda Nueva,32,20499194.82
-,,,Vivienda Usada,196,149896487.10
+,,,Vivienda Usada,196,149896487.1
 ,,julio,Vivienda Nueva,28,19914048.99
 ,,,Vivienda Usada,119,90878668.21
 ,,agosto,Vivienda Nueva,43,26385866.96
 ,,,Vivienda Usada,120,95569793.32
 ,,septiembre,Vivienda Nueva,52,33597522.32
 ,,,Vivienda Usada,121,91012694.54
-,,octubre,Vivienda Nueva,44,28248447.00
-,,,Vivienda Usada,143,104500162.00
+,,octubre,Vivienda Nueva,44,28248447
+,,,Vivienda Usada,143,104500162
 ,,noviembre,Vivienda Nueva,40,20857722.76
 ,,,Vivienda Usada,95,67712328.87
 ,,diciembre,Vivienda Nueva,60,32350121.38
@@ -122,7 +122,7 @@ año,estado,mes,modalidad,cred,monto
 ,Chihuahua,enero,Vivienda Nueva,23,20470498.02
 ,,,Vivienda Usada,27,24595841.76
 ,,febrero,Vivienda Nueva,42,28604709.75
-,,,Vivienda Usada,68,47939928.40
+,,,Vivienda Usada,68,47939928.4
 ,,marzo,Vivienda Nueva,70,50419195.05
 ,,,Vivienda Usada,160,99123058.17
 ,,abril,Vivienda Nueva,52,37996478.38
@@ -139,34 +139,34 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,60,43849174.12
 ,,octubre,Vivienda Nueva,55,37977897.28
 ,,,Vivienda Usada,141,95978749.41
-,,noviembre,Vivienda Nueva,22,17340411.10
+,,noviembre,Vivienda Nueva,22,17340411.1
 ,,,Vivienda Usada,98,65572285.65
 ,,diciembre,Vivienda Nueva,45,31292690.76
 ,,,Vivienda Usada,98,69263332.69
 ,Ciudad de México,enero,Vivienda Nueva,18,16139108.29
-,,,Vivienda Usada,11,8469610.10
+,,,Vivienda Usada,11,8469610.1
 ,,febrero,Vivienda Nueva,73,54217641.64
 ,,,Vivienda Usada,87,69397875.51
 ,,marzo,Vivienda Nueva,64,39371468.59
 ,,,Vivienda Usada,112,78521087.29
 ,,abril,Vivienda Nueva,52,36324231.64
-,,,Vivienda Usada,91,66817258.00
+,,,Vivienda Usada,91,66817258
 ,,mayo,Vivienda Nueva,53,36985298.49
 ,,,Vivienda Usada,86,58859325.36
 ,,junio,Vivienda Nueva,79,55514260.15
-,,,Vivienda Usada,132,101564644.10
+,,,Vivienda Usada,132,101564644.1
 ,,julio,Vivienda Nueva,93,68580333.36
-,,,Vivienda Usada,172,141290329.60
+,,,Vivienda Usada,172,141290329.6
 ,,agosto,Vivienda Nueva,114,93579391.21
-,,,Vivienda Usada,177,146312290.90
+,,,Vivienda Usada,177,146312290.9
 ,,septiembre,Vivienda Nueva,127,98251545.92
-,,,Vivienda Usada,186,166325645.90
-,,octubre,Vivienda Nueva,170,138202012.70
-,,,Vivienda Usada,292,253764240.00
+,,,Vivienda Usada,186,166325645.9
+,,octubre,Vivienda Nueva,170,138202012.7
+,,,Vivienda Usada,292,253764240
 ,,noviembre,Vivienda Nueva,111,89540408.14
-,,,Vivienda Usada,207,162736451.90
+,,,Vivienda Usada,207,162736451.9
 ,,diciembre,Vivienda Nueva,116,81365917.36
-,,,Vivienda Usada,196,148222490.00
+,,,Vivienda Usada,196,148222490
 ,Coahuila de Zaragoza,enero,Vivienda Nueva,22,14724960.32
 ,,,Vivienda Usada,14,10920277.38
 ,,febrero,Vivienda Nueva,43,26904373.34
@@ -189,7 +189,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,95,68171052.33
 ,,noviembre,Vivienda Nueva,53,33381612.36
 ,,,Vivienda Usada,52,31754331.12
-,,diciembre,Vivienda Nueva,37,25001826.50
+,,diciembre,Vivienda Nueva,37,25001826.5
 ,,,Vivienda Usada,51,34233660.69
 ,Colima,enero,Vivienda Nueva,11,6648650.22
 ,,,Vivienda Usada,6,4442917.02
@@ -197,35 +197,35 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,22,14558679.78
 ,,marzo,Vivienda Nueva,49,27024764.57
 ,,,Vivienda Usada,34,21984996.88
-,,abril,Vivienda Nueva,30,20566633.90
+,,abril,Vivienda Nueva,30,20566633.9
 ,,,Vivienda Usada,24,16111850.09
 ,,mayo,Vivienda Nueva,41,30574124.78
 ,,,Vivienda Usada,26,19464395.33
-,,junio,Vivienda Nueva,32,25312518.80
+,,junio,Vivienda Nueva,32,25312518.8
 ,,,Vivienda Usada,13,10278487.18
 ,,julio,Vivienda Nueva,25,19755685.93
 ,,,Vivienda Usada,27,16924511.76
 ,,agosto,Vivienda Nueva,35,25480913.34
-,,,Vivienda Usada,26,16610614.10
+,,,Vivienda Usada,26,16610614.1
 ,,septiembre,Vivienda Nueva,46,25990651.12
-,,,Vivienda Usada,18,12720937.90
+,,,Vivienda Usada,18,12720937.9
 ,,octubre,Vivienda Nueva,41,26116684.53
 ,,,Vivienda Usada,34,24067307.24
 ,,noviembre,Vivienda Nueva,36,20070332.24
 ,,,Vivienda Usada,27,16541132.71
 ,,diciembre,Vivienda Nueva,32,20987853.31
-,,,Vivienda Usada,20,13966094.80
+,,,Vivienda Usada,20,13966094.8
 ,Durango,enero,Vivienda Nueva,14,8378754.04
 ,,,Vivienda Usada,11,7857209.46
 ,,febrero,Vivienda Nueva,55,33053170.33
 ,,,Vivienda Usada,24,18261733.59
-,,marzo,Vivienda Nueva,68,38546250.70
+,,marzo,Vivienda Nueva,68,38546250.7
 ,,,Vivienda Usada,68,41726488.19
 ,,abril,Vivienda Nueva,64,39531276.62
 ,,,Vivienda Usada,40,24311994.59
 ,,mayo,Vivienda Nueva,58,40551595.69
-,,,Vivienda Usada,56,39761150.20
-,,junio,Vivienda Nueva,53,34998549.70
+,,,Vivienda Usada,56,39761150.2
+,,junio,Vivienda Nueva,53,34998549.7
 ,,,Vivienda Usada,89,62535972.42
 ,,julio,Vivienda Nueva,37,21798088.19
 ,,,Vivienda Usada,34,22300384.19
@@ -244,7 +244,7 @@ año,estado,mes,modalidad,cred,monto
 ,,febrero,Vivienda Nueva,102,61744174.27
 ,,,Vivienda Usada,48,34439842.93
 ,,marzo,Vivienda Nueva,129,82987412.89
-,,,Vivienda Usada,79,44936656.60
+,,,Vivienda Usada,79,44936656.6
 ,,abril,Vivienda Nueva,104,69478359.16
 ,,,Vivienda Usada,46,27415954.34
 ,,mayo,Vivienda Nueva,65,41774385.39
@@ -254,15 +254,15 @@ año,estado,mes,modalidad,cred,monto
 ,,julio,Vivienda Nueva,62,45717820.51
 ,,,Vivienda Usada,45,33191540.83
 ,,agosto,Vivienda Nueva,82,55492407.07
-,,,Vivienda Usada,72,49831035.70
+,,,Vivienda Usada,72,49831035.7
 ,,septiembre,Vivienda Nueva,69,47155078.81
 ,,,Vivienda Usada,41,27332031.88
 ,,octubre,Vivienda Nueva,132,85120311.47
 ,,,Vivienda Usada,71,49196920.72
-,,noviembre,Vivienda Nueva,76,48971342.20
+,,noviembre,Vivienda Nueva,76,48971342.2
 ,,,Vivienda Usada,62,41669988.76
 ,,diciembre,Vivienda Nueva,66,36739540.68
-,,,Vivienda Usada,55,33210211.80
+,,,Vivienda Usada,55,33210211.8
 ,Guerrero,enero,Vivienda Nueva,28,18930257.13
 ,,,Vivienda Usada,24,19094146.01
 ,,febrero,Vivienda Nueva,60,40791053.92
@@ -274,14 +274,14 @@ año,estado,mes,modalidad,cred,monto
 ,,mayo,Vivienda Nueva,56,37368063.31
 ,,,Vivienda Usada,106,76499080.37
 ,,junio,Vivienda Nueva,117,74422842.87
-,,,Vivienda Usada,175,127388530.20
+,,,Vivienda Usada,175,127388530.2
 ,,julio,Vivienda Nueva,94,63781137.34
 ,,,Vivienda Usada,132,99195391.53
 ,,agosto,Vivienda Nueva,53,37031411.45
 ,,,Vivienda Usada,103,74325900.39
 ,,septiembre,Vivienda Nueva,73,50939582.38
 ,,,Vivienda Usada,95,66980850.17
-,,octubre,Vivienda Nueva,81,53084148.40
+,,octubre,Vivienda Nueva,81,53084148.4
 ,,,Vivienda Usada,98,73775066.73
 ,,noviembre,Vivienda Nueva,87,53999354.65
 ,,,Vivienda Usada,95,67714545.15
@@ -289,32 +289,32 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,96,67726079.75
 ,Hidalgo,enero,Vivienda Nueva,97,72598701.59
 ,,,Vivienda Usada,22,18596127.54
-,,febrero,Vivienda Nueva,208,145347527.50
+,,febrero,Vivienda Nueva,208,145347527.5
 ,,,Vivienda Usada,50,37027711.57
-,,marzo,Vivienda Nueva,219,154426316.30
+,,marzo,Vivienda Nueva,219,154426316.3
 ,,,Vivienda Usada,100,60662702.58
-,,abril,Vivienda Nueva,203,158766941.10
+,,abril,Vivienda Nueva,203,158766941.1
 ,,,Vivienda Usada,73,46040439.73
-,,mayo,Vivienda Nueva,146,117982094.50
+,,mayo,Vivienda Nueva,146,117982094.5
 ,,,Vivienda Usada,84,58251943.67
-,,junio,Vivienda Nueva,177,147480004.60
-,,,Vivienda Usada,113,82881144.40
-,,julio,Vivienda Nueva,193,166781007.40
+,,junio,Vivienda Nueva,177,147480004.6
+,,,Vivienda Usada,113,82881144.4
+,,julio,Vivienda Nueva,193,166781007.4
 ,,,Vivienda Usada,89,68159113.56
-,,agosto,Vivienda Nueva,222,172096731.50
+,,agosto,Vivienda Nueva,222,172096731.5
 ,,,Vivienda Usada,85,59465163.49
-,,septiembre,Vivienda Nueva,180,133841067.10
+,,septiembre,Vivienda Nueva,180,133841067.1
 ,,,Vivienda Usada,74,57365740.12
-,,octubre,Vivienda Nueva,211,152919252.20
+,,octubre,Vivienda Nueva,211,152919252.2
 ,,,Vivienda Usada,120,83904021.69
 ,,noviembre,Vivienda Nueva,132,89769149.13
 ,,,Vivienda Usada,78,55373324.93
-,,diciembre,Vivienda Nueva,181,133358224.40
+,,diciembre,Vivienda Nueva,181,133358224.4
 ,,,Vivienda Usada,107,76929970.39
 ,Jalisco,enero,Vivienda Nueva,25,17550606.93
 ,,,Vivienda Usada,6,5331911.22
 ,,febrero,Vivienda Nueva,58,37286326.72
-,,,Vivienda Usada,34,24652039.50
+,,,Vivienda Usada,34,24652039.5
 ,,marzo,Vivienda Nueva,78,43247814.18
 ,,,Vivienda Usada,41,25982593.34
 ,,abril,Vivienda Nueva,68,42645197.97
@@ -331,7 +331,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,49,39105206.05
 ,,octubre,Vivienda Nueva,111,75726432.03
 ,,,Vivienda Usada,50,39765632.33
-,,noviembre,Vivienda Nueva,67,42820326.60
+,,noviembre,Vivienda Nueva,67,42820326.6
 ,,,Vivienda Usada,36,26439445.71
 ,,diciembre,Vivienda Nueva,99,73848478.96
 ,,,Vivienda Usada,47,33854363.12
@@ -347,21 +347,21 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,86,60102400.23
 ,,junio,Vivienda Nueva,99,64875253.96
 ,,,Vivienda Usada,88,60802184.11
-,,julio,Vivienda Nueva,65,38396770.20
+,,julio,Vivienda Nueva,65,38396770.2
 ,,,Vivienda Usada,60,41452230.47
-,,agosto,Vivienda Nueva,71,46481153.50
+,,agosto,Vivienda Nueva,71,46481153.5
 ,,,Vivienda Usada,56,43959091.21
 ,,septiembre,Vivienda Nueva,71,41280047.85
 ,,,Vivienda Usada,76,51438411.35
 ,,octubre,Vivienda Nueva,90,56563932.79
 ,,,Vivienda Usada,90,59473816.76
-,,noviembre,Vivienda Nueva,70,37795354.30
+,,noviembre,Vivienda Nueva,70,37795354.3
 ,,,Vivienda Usada,56,36441002.79
 ,,diciembre,Vivienda Nueva,92,55820468.93
 ,,,Vivienda Usada,49,35170587.63
 ,Morelos,enero,Vivienda Nueva,31,28712543.97
 ,,,Vivienda Usada,34,27298413.71
-,,febrero,Vivienda Nueva,67,57273892.40
+,,febrero,Vivienda Nueva,67,57273892.4
 ,,,Vivienda Usada,45,32373445.49
 ,,marzo,Vivienda Nueva,84,77295768.49
 ,,,Vivienda Usada,52,33701753.57
@@ -369,46 +369,46 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,50,35900244.78
 ,,mayo,Vivienda Nueva,104,98109583.85
 ,,,Vivienda Usada,70,49812957.89
-,,junio,Vivienda Nueva,113,103668140.40
-,,,Vivienda Usada,87,66708259.30
-,,julio,Vivienda Nueva,174,159880017.70
+,,junio,Vivienda Nueva,113,103668140.4
+,,,Vivienda Usada,87,66708259.3
+,,julio,Vivienda Nueva,174,159880017.7
 ,,,Vivienda Usada,59,45009470.74
-,,agosto,Vivienda Nueva,189,174731932.60
+,,agosto,Vivienda Nueva,189,174731932.6
 ,,,Vivienda Usada,66,53830141.04
-,,septiembre,Vivienda Nueva,131,123117350.60
+,,septiembre,Vivienda Nueva,131,123117350.6
 ,,,Vivienda Usada,68,58563243.48
-,,octubre,Vivienda Nueva,203,195242479.80
+,,octubre,Vivienda Nueva,203,195242479.8
 ,,,Vivienda Usada,105,79867132.23
-,,noviembre,Vivienda Nueva,126,116913420.90
+,,noviembre,Vivienda Nueva,126,116913420.9
 ,,,Vivienda Usada,79,56585809.85
-,,diciembre,Vivienda Nueva,132,120426722.60
+,,diciembre,Vivienda Nueva,132,120426722.6
 ,,,Vivienda Usada,76,55972975.44
 ,México,enero,Vivienda Nueva,88,60044858.18
-,,,Vivienda Usada,15,14013229.50
-,,febrero,Vivienda Nueva,221,154353799.30
+,,,Vivienda Usada,15,14013229.5
+,,febrero,Vivienda Nueva,221,154353799.3
 ,,,Vivienda Usada,40,28683556.89
-,,marzo,Vivienda Nueva,231,161392005.60
+,,marzo,Vivienda Nueva,231,161392005.6
 ,,,Vivienda Usada,104,67564339.53
-,,abril,Vivienda Nueva,285,208388540.30
+,,abril,Vivienda Nueva,285,208388540.3
 ,,,Vivienda Usada,98,70026893.87
-,,mayo,Vivienda Nueva,201,149581402.40
+,,mayo,Vivienda Nueva,201,149581402.4
 ,,,Vivienda Usada,59,37618742.16
-,,junio,Vivienda Nueva,184,137908358.10
+,,junio,Vivienda Nueva,184,137908358.1
 ,,,Vivienda Usada,111,79271438.22
-,,julio,Vivienda Nueva,240,167928443.20
+,,julio,Vivienda Nueva,240,167928443.2
 ,,,Vivienda Usada,111,82251567.46
-,,agosto,Vivienda Nueva,299,225764882.20
-,,,Vivienda Usada,123,93758770.80
-,,septiembre,Vivienda Nueva,185,130974400.80
+,,agosto,Vivienda Nueva,299,225764882.2
+,,,Vivienda Usada,123,93758770.8
+,,septiembre,Vivienda Nueva,185,130974400.8
 ,,,Vivienda Usada,115,89524518.14
-,,octubre,Vivienda Nueva,260,192192381.30
-,,,Vivienda Usada,177,136273174.60
-,,noviembre,Vivienda Nueva,178,124377936.10
-,,,Vivienda Usada,142,98222578.00
-,,diciembre,Vivienda Nueva,161,115188078.50
-,,,Vivienda Usada,195,131679706.30
+,,octubre,Vivienda Nueva,260,192192381.3
+,,,Vivienda Usada,177,136273174.6
+,,noviembre,Vivienda Nueva,178,124377936.1
+,,,Vivienda Usada,142,98222578
+,,diciembre,Vivienda Nueva,161,115188078.5
+,,,Vivienda Usada,195,131679706.3
 ,Nayarit,enero,Vivienda Nueva,16,11177067.98
-,,,Vivienda Usada,6,5253592.20
+,,,Vivienda Usada,6,5253592.2
 ,,febrero,Vivienda Nueva,27,18447946.63
 ,,,Vivienda Usada,13,7987430.42
 ,,marzo,Vivienda Nueva,43,29555625.94
@@ -423,28 +423,28 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,29,20163901.29
 ,,agosto,Vivienda Nueva,48,32397201.12
 ,,,Vivienda Usada,30,22947383.58
-,,septiembre,Vivienda Nueva,53,38170146.50
+,,septiembre,Vivienda Nueva,53,38170146.5
 ,,,Vivienda Usada,27,18363269.08
 ,,octubre,Vivienda Nueva,58,41862377.81
 ,,,Vivienda Usada,53,35163323.45
 ,,noviembre,Vivienda Nueva,44,33334435.94
 ,,,Vivienda Usada,38,24580936.06
-,,diciembre,Vivienda Nueva,22,15753090.80
+,,diciembre,Vivienda Nueva,22,15753090.8
 ,,,Vivienda Usada,37,23987498.91
 ,Nuevo León,enero,Vivienda Nueva,23,15237435.09
 ,,,Vivienda Usada,8,4678014.53
 ,,febrero,Vivienda Nueva,72,37651933.86
 ,,,Vivienda Usada,12,9212186.03
-,,marzo,Vivienda Nueva,83,43619715.80
-,,,Vivienda Usada,44,26827160.00
+,,marzo,Vivienda Nueva,83,43619715.8
+,,,Vivienda Usada,44,26827160
 ,,abril,Vivienda Nueva,50,28854122.22
 ,,,Vivienda Usada,17,10528075.56
 ,,mayo,Vivienda Nueva,60,40332649.66
-,,,Vivienda Usada,37,24825169.00
+,,,Vivienda Usada,37,24825169
 ,,junio,Vivienda Nueva,51,31615048.35
 ,,,Vivienda Usada,40,26093217.55
 ,,julio,Vivienda Nueva,62,42748534.29
-,,,Vivienda Usada,34,22205974.70
+,,,Vivienda Usada,34,22205974.7
 ,,agosto,Vivienda Nueva,87,54842671.45
 ,,,Vivienda Usada,46,38128736.25
 ,,septiembre,Vivienda Nueva,107,66993815.06
@@ -452,21 +452,21 @@ año,estado,mes,modalidad,cred,monto
 ,,octubre,Vivienda Nueva,119,66252331.14
 ,,,Vivienda Usada,54,44598071.76
 ,,noviembre,Vivienda Nueva,103,53595522.28
-,,,Vivienda Usada,65,44073026.00
+,,,Vivienda Usada,65,44073026
 ,,diciembre,Vivienda Nueva,45,24710326.39
 ,,,Vivienda Usada,30,16595455.41
 ,Oaxaca,enero,Vivienda Nueva,27,17094563.21
 ,,,Vivienda Usada,33,25402974.53
 ,,febrero,Vivienda Nueva,35,21594327.87
-,,,Vivienda Usada,38,25200635.80
+,,,Vivienda Usada,38,25200635.8
 ,,marzo,Vivienda Nueva,48,30013427.78
 ,,,Vivienda Usada,87,57594360.85
 ,,abril,Vivienda Nueva,49,35692246.87
 ,,,Vivienda Usada,71,50498648.27
-,,mayo,Vivienda Nueva,48,34813791.90
+,,mayo,Vivienda Nueva,48,34813791.9
 ,,,Vivienda Usada,104,71619259.92
 ,,junio,Vivienda Nueva,48,29645188.26
-,,,Vivienda Usada,142,102793025.90
+,,,Vivienda Usada,142,102793025.9
 ,,julio,Vivienda Nueva,58,36199907.31
 ,,,Vivienda Usada,77,56683426.94
 ,,agosto,Vivienda Nueva,27,16185453.41
@@ -475,7 +475,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,79,56394953.26
 ,,octubre,Vivienda Nueva,38,19625890.35
 ,,,Vivienda Usada,88,62429553.29
-,,noviembre,Vivienda Nueva,23,11456217.40
+,,noviembre,Vivienda Nueva,23,11456217.4
 ,,,Vivienda Usada,51,35195771.76
 ,,diciembre,Vivienda Nueva,31,18253672.47
 ,,,Vivienda Usada,68,45759468.15
@@ -490,7 +490,7 @@ año,estado,mes,modalidad,cred,monto
 ,,mayo,Vivienda Nueva,93,61963929.86
 ,,,Vivienda Usada,98,72237992.88
 ,,junio,Vivienda Nueva,97,64989976.86
-,,,Vivienda Usada,105,74810310.70
+,,,Vivienda Usada,105,74810310.7
 ,,julio,Vivienda Nueva,90,62808239.14
 ,,,Vivienda Usada,60,47128794.48
 ,,agosto,Vivienda Nueva,124,88206376.11
@@ -500,23 +500,23 @@ año,estado,mes,modalidad,cred,monto
 ,,octubre,Vivienda Nueva,103,73683846.96
 ,,,Vivienda Usada,97,69046133.61
 ,,noviembre,Vivienda Nueva,50,31697457.27
-,,,Vivienda Usada,78,50913301.60
+,,,Vivienda Usada,78,50913301.6
 ,,diciembre,Vivienda Nueva,72,46977433.86
 ,,,Vivienda Usada,61,43035665.85
 ,Querétaro,enero,Vivienda Nueva,27,21928002.81
 ,,,Vivienda Usada,10,9096081.52
-,,febrero,Vivienda Nueva,80,55235761.50
+,,febrero,Vivienda Nueva,80,55235761.5
 ,,,Vivienda Usada,7,5543662.03
 ,,marzo,Vivienda Nueva,53,38659958.69
 ,,,Vivienda Usada,31,19742556.89
 ,,abril,Vivienda Nueva,61,42661071.63
-,,,Vivienda Usada,21,12704162.00
+,,,Vivienda Usada,21,12704162
 ,,mayo,Vivienda Nueva,59,47270580.82
 ,,,Vivienda Usada,18,12956281.51
 ,,junio,Vivienda Nueva,97,74665909.39
 ,,,Vivienda Usada,18,12546929.78
 ,,julio,Vivienda Nueva,115,91875027.03
-,,,Vivienda Usada,26,18868936.60
+,,,Vivienda Usada,26,18868936.6
 ,,agosto,Vivienda Nueva,106,75128425.21
 ,,,Vivienda Usada,27,23374346.06
 ,,septiembre,Vivienda Nueva,73,57101365.47
@@ -530,8 +530,8 @@ año,estado,mes,modalidad,cred,monto
 ,Quintana Roo,enero,Vivienda Nueva,47,28406052.77
 ,,,Vivienda Usada,15,9117210.08
 ,,febrero,Vivienda Nueva,116,66060955.92
-,,,Vivienda Usada,26,16352130.60
-,,marzo,Vivienda Nueva,126,85065919.60
+,,,Vivienda Usada,26,16352130.6
+,,marzo,Vivienda Nueva,126,85065919.6
 ,,,Vivienda Usada,30,19489678.84
 ,,abril,Vivienda Nueva,96,63599391.67
 ,,,Vivienda Usada,17,12691753.22
@@ -557,7 +557,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,20,14768169.26
 ,,marzo,Vivienda Nueva,51,34813063.62
 ,,,Vivienda Usada,56,34673711.12
-,,abril,Vivienda Nueva,52,34648897.70
+,,abril,Vivienda Nueva,52,34648897.7
 ,,,Vivienda Usada,27,16763961.73
 ,,mayo,Vivienda Nueva,74,46316141.68
 ,,,Vivienda Usada,50,32694963.48
@@ -569,15 +569,15 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,54,38344026.22
 ,,septiembre,Vivienda Nueva,68,49505456.37
 ,,,Vivienda Usada,41,27244039.28
-,,octubre,Vivienda Nueva,105,68669669.10
+,,octubre,Vivienda Nueva,105,68669669.1
 ,,,Vivienda Usada,81,60039887.39
 ,,noviembre,Vivienda Nueva,54,32404304.31
 ,,,Vivienda Usada,35,21225095.07
 ,,diciembre,Vivienda Nueva,55,32581473.26
 ,,,Vivienda Usada,46,29771833.85
 ,Sinaloa,enero,Vivienda Nueva,18,13025022.44
-,,,Vivienda Usada,10,9766159.60
-,,febrero,Vivienda Nueva,77,53864971.10
+,,,Vivienda Usada,10,9766159.6
+,,febrero,Vivienda Nueva,77,53864971.1
 ,,,Vivienda Usada,23,17305898.94
 ,,marzo,Vivienda Nueva,85,58547249.48
 ,,,Vivienda Usada,69,40253133.53
@@ -585,13 +585,13 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,33,21733027.14
 ,,mayo,Vivienda Nueva,67,53270679.68
 ,,,Vivienda Usada,35,23887366.17
-,,junio,Vivienda Nueva,81,69827103.50
+,,junio,Vivienda Nueva,81,69827103.5
 ,,,Vivienda Usada,54,33538839.77
-,,julio,Vivienda Nueva,105,84783261.40
+,,julio,Vivienda Nueva,105,84783261.4
 ,,,Vivienda Usada,54,35094042.53
 ,,agosto,Vivienda Nueva,88,73396825.44
 ,,,Vivienda Usada,35,27101727.19
-,,septiembre,Vivienda Nueva,89,63017992.20
+,,septiembre,Vivienda Nueva,89,63017992.2
 ,,,Vivienda Usada,47,34469311.64
 ,,octubre,Vivienda Nueva,95,70842742.93
 ,,,Vivienda Usada,93,67297852.94
@@ -599,7 +599,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,49,34260448.56
 ,,diciembre,Vivienda Nueva,98,71544906.59
 ,,,Vivienda Usada,45,28333836.19
-,Sonora,enero,Vivienda Nueva,9,6586691.50
+,Sonora,enero,Vivienda Nueva,9,6586691.5
 ,,,Vivienda Usada,20,17888511.99
 ,,febrero,Vivienda Nueva,47,30703715.67
 ,,,Vivienda Usada,28,20315484.36
@@ -621,7 +621,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,65,49130867.51
 ,,noviembre,Vivienda Nueva,56,41253016.33
 ,,,Vivienda Usada,55,41086712.82
-,,diciembre,Vivienda Nueva,47,30549443.40
+,,diciembre,Vivienda Nueva,47,30549443.4
 ,,,Vivienda Usada,55,41691640.09
 ,Tabasco,enero,Vivienda Nueva,5,3373576.26
 ,,,Vivienda Usada,13,9255212.56
@@ -629,9 +629,9 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,31,20178803.66
 ,,marzo,Vivienda Nueva,15,11759408.21
 ,,,Vivienda Usada,80,55315904.34
-,,abril,Vivienda Nueva,15,10932045.00
+,,abril,Vivienda Nueva,15,10932045
 ,,,Vivienda Usada,48,34917643.71
-,,mayo,Vivienda Nueva,14,10864535.10
+,,mayo,Vivienda Nueva,14,10864535.1
 ,,,Vivienda Usada,92,69165967.67
 ,,junio,Vivienda Nueva,23,15702006.39
 ,,,Vivienda Usada,79,63718283.21
@@ -656,25 +656,25 @@ año,estado,mes,modalidad,cred,monto
 ,,abril,Vivienda Nueva,20,13323448.99
 ,,,Vivienda Usada,60,40805218.91
 ,,mayo,Vivienda Nueva,19,12766044.51
-,,,Vivienda Usada,94,66049990.60
+,,,Vivienda Usada,94,66049990.6
 ,,junio,Vivienda Nueva,15,11770279.57
 ,,,Vivienda Usada,126,91618249.29
 ,,julio,Vivienda Nueva,28,20242979.11
 ,,,Vivienda Usada,123,94278093.24
 ,,agosto,Vivienda Nueva,31,22264533.68
-,,,Vivienda Usada,159,126266917.80
+,,,Vivienda Usada,159,126266917.8
 ,,septiembre,Vivienda Nueva,31,22129725.94
 ,,,Vivienda Usada,126,97326744.61
 ,,octubre,Vivienda Nueva,30,21544968.59
-,,,Vivienda Usada,176,132984401.20
+,,,Vivienda Usada,176,132984401.2
 ,,noviembre,Vivienda Nueva,23,14552699.54
-,,,Vivienda Usada,127,92034463.80
+,,,Vivienda Usada,127,92034463.8
 ,,diciembre,Vivienda Nueva,10,6328101.39
 ,,,Vivienda Usada,62,42399643.35
 ,Tlaxcala,enero,Vivienda Nueva,6,5160425.21
 ,,,Vivienda Usada,10,7234958.17
-,,febrero,Vivienda Nueva,9,6133939.80
-,,,Vivienda Usada,26,19193916.80
+,,febrero,Vivienda Nueva,9,6133939.8
+,,,Vivienda Usada,26,19193916.8
 ,,marzo,Vivienda Nueva,16,10694756.86
 ,,,Vivienda Usada,45,31498919.43
 ,,abril,Vivienda Nueva,12,7636185.76
@@ -684,7 +684,7 @@ año,estado,mes,modalidad,cred,monto
 ,,junio,Vivienda Nueva,14,7618719.02
 ,,,Vivienda Usada,28,18976482.97
 ,,julio,Vivienda Nueva,14,8581225.87
-,,,Vivienda Usada,27,19425392.40
+,,,Vivienda Usada,27,19425392.4
 ,,agosto,Vivienda Nueva,13,7219113.71
 ,,,Vivienda Usada,44,33309012.67
 ,,septiembre,Vivienda Nueva,15,6893991.94
@@ -696,29 +696,29 @@ año,estado,mes,modalidad,cred,monto
 ,,diciembre,Vivienda Nueva,22,12539911.39
 ,,,Vivienda Usada,43,31742882.58
 ,Veracruz de Ignacio de la Llave,enero,Vivienda Nueva,28,18992561.81
-,,,Vivienda Usada,108,85477857.10
+,,,Vivienda Usada,108,85477857.1
 ,,febrero,Vivienda Nueva,99,66553530.83
-,,,Vivienda Usada,178,130191789.70
+,,,Vivienda Usada,178,130191789.7
 ,,marzo,Vivienda Nueva,141,95032745.88
-,,,Vivienda Usada,312,195543595.60
+,,,Vivienda Usada,312,195543595.6
 ,,abril,Vivienda Nueva,109,72242258.68
-,,,Vivienda Usada,176,125811575.70
-,,mayo,Vivienda Nueva,68,48650820.80
-,,,Vivienda Usada,269,214161275.20
+,,,Vivienda Usada,176,125811575.7
+,,mayo,Vivienda Nueva,68,48650820.8
+,,,Vivienda Usada,269,214161275.2
 ,,junio,Vivienda Nueva,43,29990620.94
-,,,Vivienda Usada,303,233841490.20
+,,,Vivienda Usada,303,233841490.2
 ,,julio,Vivienda Nueva,95,68754127.45
-,,,Vivienda Usada,180,139294227.40
-,,agosto,Vivienda Nueva,113,79881362.80
-,,,Vivienda Usada,233,177534663.10
+,,,Vivienda Usada,180,139294227.4
+,,agosto,Vivienda Nueva,113,79881362.8
+,,,Vivienda Usada,233,177534663.1
 ,,septiembre,Vivienda Nueva,85,53753925.54
-,,,Vivienda Usada,259,207344804.60
+,,,Vivienda Usada,259,207344804.6
 ,,octubre,Vivienda Nueva,77,55157618.01
-,,,Vivienda Usada,298,217859967.70
+,,,Vivienda Usada,298,217859967.7
 ,,noviembre,Vivienda Nueva,48,30325186.49
-,,,Vivienda Usada,199,132309897.70
+,,,Vivienda Usada,199,132309897.7
 ,,diciembre,Vivienda Nueva,57,33304034.47
-,,,Vivienda Usada,191,135329189.60
+,,,Vivienda Usada,191,135329189.6
 ,Yucatán,enero,Vivienda Nueva,15,10895619.81
 ,,,Vivienda Usada,13,10103161.59
 ,,febrero,Vivienda Nueva,43,27294727.26
@@ -745,7 +745,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,46,34120034.58
 ,Zacatecas,enero,Vivienda Nueva,19,11472646.67
 ,,,Vivienda Usada,8,6148697.15
-,,febrero,Vivienda Nueva,33,18825158.00
+,,febrero,Vivienda Nueva,33,18825158
 ,,,Vivienda Usada,20,12722412.59
 ,,marzo,Vivienda Nueva,36,23970753.06
 ,,,Vivienda Usada,24,14256787.92
@@ -753,7 +753,7 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,24,15363431.98
 ,,mayo,Vivienda Nueva,57,39677075.07
 ,,,Vivienda Usada,27,16288686.59
-,,junio,Vivienda Nueva,34,25041202.00
+,,junio,Vivienda Nueva,34,25041202
 ,,,Vivienda Usada,32,21058893.38
 ,,julio,Vivienda Nueva,25,14457603.94
 ,,,Vivienda Usada,26,17140213.93
@@ -763,16 +763,16 @@ año,estado,mes,modalidad,cred,monto
 ,,,Vivienda Usada,27,17332900.59
 ,,octubre,Vivienda Nueva,35,24115187.53
 ,,,Vivienda Usada,29,20693542.25
-,,noviembre,Vivienda Nueva,32,15826510.70
+,,noviembre,Vivienda Nueva,32,15826510.7
 ,,,Vivienda Usada,26,16529268.01
 ,,diciembre,Vivienda Nueva,25,12417275.63
 ,,,Vivienda Usada,18,11003279.46
 2020,Aguascalientes,enero,Vivienda Nueva,100,59480434.04
-2020,Aguascalientes,,Vivienda Usada,40,23367486.40
+2020,Aguascalientes,,Vivienda Usada,40,23367486.4
 2020,Aguascalientes,febrero,Vivienda Nueva,21,9697710.11
 2020,Aguascalientes,,Vivienda Usada,6,2288931.83
 2020,Aguascalientes,marzo,Vivienda Nueva,29,17433294.63
-2020,Aguascalientes,,Vivienda Usada,7,4661929.90
+2020,Aguascalientes,,Vivienda Usada,7,4661929.9
 2020,Aguascalientes,abril,Vivienda Nueva,41,28623415.55
 2020,Aguascalientes,,Vivienda Usada,15,7436079.16
 2020,Aguascalientes,mayo,Vivienda Nueva,41,28959543.91
@@ -782,7 +782,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Baja California,enero,Vivienda Nueva,50,36492179.41
 2020,Baja California,,Vivienda Usada,30,20204245.68
 2020,Baja California,febrero,Vivienda Nueva,22,17703462.55
-2020,Baja California,,Vivienda Usada,12,8876719.10
+2020,Baja California,,Vivienda Usada,12,8876719.1
 2020,Baja California,marzo,Vivienda Nueva,17,12609115.86
 2020,Baja California,,Vivienda Usada,32,23464801.01
 2020,Baja California,abril,Vivienda Nueva,5,3213190.64
@@ -792,9 +792,9 @@ año,estado,mes,modalidad,cred,monto
 2020,Baja California,junio,Vivienda Nueva,25,22651572.35
 2020,Baja California,,Vivienda Usada,13,10802113.71
 2020,Baja California Sur,enero,Vivienda Nueva,64,46184238.07
-2020,Baja California Sur,,Vivienda Usada,68,42005945.00
+2020,Baja California Sur,,Vivienda Usada,68,42005945
 2020,Baja California Sur,febrero,Vivienda Nueva,20,15271489.11
-2020,Baja California Sur,,Vivienda Usada,26,15981228.60
+2020,Baja California Sur,,Vivienda Usada,26,15981228.6
 2020,Baja California Sur,marzo,Vivienda Nueva,14,10156757.25
 2020,Baja California Sur,,Vivienda Usada,21,11994570.81
 2020,Baja California Sur,abril,Vivienda Nueva,19,15006204.93
@@ -809,26 +809,26 @@ año,estado,mes,modalidad,cred,monto
 2020,Campeche,,Vivienda Usada,19,13778654.38
 2020,Campeche,marzo,Vivienda Nueva,7,4745120.89
 2020,Campeche,,Vivienda Usada,38,32107337.46
-2020,Campeche,abril,Vivienda Nueva,1,599000.00
+2020,Campeche,abril,Vivienda Nueva,1,599000
 2020,Campeche,,Vivienda Usada,32,28543999.07
-2020,Campeche,mayo,Vivienda Nueva,3,2612000.00
+2020,Campeche,mayo,Vivienda Nueva,3,2612000
 2020,Campeche,,Vivienda Usada,14,10167756.32
 2020,Campeche,junio,Vivienda Nueva,3,2659058.85
 2020,Campeche,,Vivienda Usada,19,16210258.51
 2020,Chiapas,enero,Vivienda Nueva,71,51600101.07
-2020,Chiapas,,Vivienda Usada,194,136779310.10
+2020,Chiapas,,Vivienda Usada,194,136779310.1
 2020,Chiapas,febrero,Vivienda Nueva,38,28327728.54
 2020,Chiapas,,Vivienda Usada,86,65826579.21
 2020,Chiapas,marzo,Vivienda Nueva,63,45825159.67
-2020,Chiapas,,Vivienda Usada,175,142688206.40
+2020,Chiapas,,Vivienda Usada,175,142688206.4
 2020,Chiapas,abril,Vivienda Nueva,23,17075266.39
 2020,Chiapas,,Vivienda Usada,69,57317323.42
-2020,Chiapas,mayo,Vivienda Nueva,34,22385174.70
+2020,Chiapas,mayo,Vivienda Nueva,34,22385174.7
 2020,Chiapas,,Vivienda Usada,74,54670689.26
 2020,Chiapas,junio,Vivienda Nueva,48,32515139.02
 2020,Chiapas,,Vivienda Usada,104,79599530.27
-2020,Chihuahua,enero,Vivienda Nueva,97,68254367.80
-2020,Chihuahua,,Vivienda Usada,182,114381819.40
+2020,Chihuahua,enero,Vivienda Nueva,97,68254367.8
+2020,Chihuahua,,Vivienda Usada,182,114381819.4
 2020,Chihuahua,febrero,Vivienda Nueva,45,33242075.56
 2020,Chihuahua,,Vivienda Usada,84,57876059.81
 2020,Chihuahua,marzo,Vivienda Nueva,45,32684796.34
@@ -840,11 +840,11 @@ año,estado,mes,modalidad,cred,monto
 2020,Chihuahua,junio,Vivienda Nueva,74,61457314.33
 2020,Chihuahua,,Vivienda Usada,69,54611901.85
 2020,Ciudad de México,enero,Vivienda Nueva,134,99606527.86
-2020,Ciudad de México,,Vivienda Usada,180,144296503.50
+2020,Ciudad de México,,Vivienda Usada,180,144296503.5
 2020,Ciudad de México,febrero,Vivienda Nueva,78,64000404.91
 2020,Ciudad de México,,Vivienda Usada,130,97810129.42
 2020,Ciudad de México,marzo,Vivienda Nueva,84,54299696.61
-2020,Ciudad de México,,Vivienda Usada,142,105903460.90
+2020,Ciudad de México,,Vivienda Usada,142,105903460.9
 2020,Ciudad de México,abril,Vivienda Nueva,78,57014293.78
 2020,Ciudad de México,,Vivienda Usada,89,69106441.61
 2020,Ciudad de México,mayo,Vivienda Nueva,79,57722120.28
@@ -852,15 +852,15 @@ año,estado,mes,modalidad,cred,monto
 2020,Ciudad de México,junio,Vivienda Nueva,111,97600704.22
 2020,Ciudad de México,,Vivienda Usada,127,99037245.58
 2020,Coahuila de Zaragoza,enero,Vivienda Nueva,64,41449513.32
-2020,Coahuila de Zaragoza,,Vivienda Usada,99,62415701.30
+2020,Coahuila de Zaragoza,,Vivienda Usada,99,62415701.3
 2020,Coahuila de Zaragoza,febrero,Vivienda Nueva,36,25129447.67
 2020,Coahuila de Zaragoza,,Vivienda Usada,37,25402518.95
 2020,Coahuila de Zaragoza,marzo,Vivienda Nueva,41,28391851.77
-2020,Coahuila de Zaragoza,,Vivienda Usada,48,34637430.90
+2020,Coahuila de Zaragoza,,Vivienda Usada,48,34637430.9
 2020,Coahuila de Zaragoza,abril,Vivienda Nueva,34,22108366.97
 2020,Coahuila de Zaragoza,,Vivienda Usada,26,18317836.38
 2020,Coahuila de Zaragoza,mayo,Vivienda Nueva,38,26208000.88
-2020,Coahuila de Zaragoza,,Vivienda Usada,37,25128706.30
+2020,Coahuila de Zaragoza,,Vivienda Usada,37,25128706.3
 2020,Coahuila de Zaragoza,junio,Vivienda Nueva,74,57196707.16
 2020,Coahuila de Zaragoza,,Vivienda Usada,44,33751865.05
 2020,Colima,enero,Vivienda Nueva,50,32539046.56
@@ -872,14 +872,14 @@ año,estado,mes,modalidad,cred,monto
 2020,Colima,abril,Vivienda Nueva,15,9109711.61
 2020,Colima,,Vivienda Usada,6,2957003.42
 2020,Colima,mayo,Vivienda Nueva,18,12554141.87
-2020,Colima,,Vivienda Usada,4,2815335.60
+2020,Colima,,Vivienda Usada,4,2815335.6
 2020,Colima,junio,Vivienda Nueva,48,33557533.12
 2020,Colima,,Vivienda Usada,24,17146827.33
 2020,Durango,enero,Vivienda Nueva,69,43074997.37
 2020,Durango,,Vivienda Usada,52,32928695.16
 2020,Durango,febrero,Vivienda Nueva,21,12620896.43
-2020,Durango,,Vivienda Usada,17,8182969.40
-2020,Durango,marzo,Vivienda Nueva,31,18457617.40
+2020,Durango,,Vivienda Usada,17,8182969.4
+2020,Durango,marzo,Vivienda Nueva,31,18457617.4
 2020,Durango,,Vivienda Usada,18,11018880.61
 2020,Durango,abril,Vivienda Nueva,26,15137970.86
 2020,Durango,,Vivienda Usada,25,16915740.14
@@ -887,7 +887,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Durango,,Vivienda Usada,14,9020589.31
 2020,Durango,junio,Vivienda Nueva,65,40407799.87
 2020,Durango,,Vivienda Usada,33,24142125.51
-2020,Guanajuato,enero,Vivienda Nueva,160,106044648.40
+2020,Guanajuato,enero,Vivienda Nueva,160,106044648.4
 2020,Guanajuato,,Vivienda Usada,87,55382067.37
 2020,Guanajuato,febrero,Vivienda Nueva,67,45522572.12
 2020,Guanajuato,,Vivienda Usada,47,32349400.61
@@ -897,39 +897,39 @@ año,estado,mes,modalidad,cred,monto
 2020,Guanajuato,,Vivienda Usada,35,24139632.28
 2020,Guanajuato,mayo,Vivienda Nueva,42,24835925.75
 2020,Guanajuato,,Vivienda Usada,29,18419578.97
-2020,Guanajuato,junio,Vivienda Nueva,129,86787706.40
+2020,Guanajuato,junio,Vivienda Nueva,129,86787706.4
 2020,Guanajuato,,Vivienda Usada,33,24440389.93
-2020,Guerrero,enero,Vivienda Nueva,160,115470410.30
+2020,Guerrero,enero,Vivienda Nueva,160,115470410.3
 2020,Guerrero,,Vivienda Usada,103,70933618.41
 2020,Guerrero,febrero,Vivienda Nueva,41,27561212.87
 2020,Guerrero,,Vivienda Usada,36,25470751.82
 2020,Guerrero,marzo,Vivienda Nueva,42,31380753.22
-2020,Guerrero,,Vivienda Usada,168,119059545.60
+2020,Guerrero,,Vivienda Usada,168,119059545.6
 2020,Guerrero,abril,Vivienda Nueva,54,35579315.63
 2020,Guerrero,,Vivienda Usada,66,47562480.22
 2020,Guerrero,mayo,Vivienda Nueva,34,22925392.48
 2020,Guerrero,,Vivienda Usada,46,34193873.55
 2020,Guerrero,junio,Vivienda Nueva,72,49893314.06
 2020,Guerrero,,Vivienda Usada,71,55640469.93
-2020,Hidalgo,enero,Vivienda Nueva,314,238060587.30
+2020,Hidalgo,enero,Vivienda Nueva,314,238060587.3
 2020,Hidalgo,,Vivienda Usada,125,86857098.48
 2020,Hidalgo,febrero,Vivienda Nueva,105,79157133.58
 2020,Hidalgo,,Vivienda Usada,57,46136569.14
-2020,Hidalgo,marzo,Vivienda Nueva,152,123263706.10
+2020,Hidalgo,marzo,Vivienda Nueva,152,123263706.1
 2020,Hidalgo,,Vivienda Usada,85,65443017.73
 2020,Hidalgo,abril,Vivienda Nueva,74,58805128.91
 2020,Hidalgo,,Vivienda Usada,49,40844202.33
 2020,Hidalgo,mayo,Vivienda Nueva,101,77081124.08
 2020,Hidalgo,,Vivienda Usada,62,50106089.37
-2020,Hidalgo,junio,Vivienda Nueva,240,183298453.00
-2020,Hidalgo,,Vivienda Usada,95,75355664.00
+2020,Hidalgo,junio,Vivienda Nueva,240,183298453
+2020,Hidalgo,,Vivienda Usada,95,75355664
 2020,Jalisco,enero,Vivienda Nueva,90,61761929.57
 2020,Jalisco,,Vivienda Usada,73,51818801.25
 2020,Jalisco,febrero,Vivienda Nueva,38,22464906.98
 2020,Jalisco,,Vivienda Usada,21,16352444.59
-2020,Jalisco,marzo,Vivienda Nueva,48,34971768.20
+2020,Jalisco,marzo,Vivienda Nueva,48,34971768.2
 2020,Jalisco,,Vivienda Usada,27,19262410.22
-2020,Jalisco,abril,Vivienda Nueva,50,36530745.90
+2020,Jalisco,abril,Vivienda Nueva,50,36530745.9
 2020,Jalisco,,Vivienda Usada,23,17411264.51
 2020,Jalisco,mayo,Vivienda Nueva,47,37010069.97
 2020,Jalisco,,Vivienda Usada,13,10217973.88
@@ -942,34 +942,34 @@ año,estado,mes,modalidad,cred,monto
 2020,Michoacán de Ocampo,marzo,Vivienda Nueva,79,48773853.97
 2020,Michoacán de Ocampo,,Vivienda Usada,114,84445484.53
 2020,Michoacán de Ocampo,abril,Vivienda Nueva,67,40624963.54
-2020,Michoacán de Ocampo,,Vivienda Usada,35,25182956.50
+2020,Michoacán de Ocampo,,Vivienda Usada,35,25182956.5
 2020,Michoacán de Ocampo,mayo,Vivienda Nueva,67,42324430.59
 2020,Michoacán de Ocampo,,Vivienda Usada,33,21196572.44
 2020,Michoacán de Ocampo,junio,Vivienda Nueva,130,80334846.19
 2020,Michoacán de Ocampo,,Vivienda Usada,63,41669391.88
-2020,Morelos,enero,Vivienda Nueva,143,126861067.90
-2020,Morelos,,Vivienda Usada,77,54230258.40
+2020,Morelos,enero,Vivienda Nueva,143,126861067.9
+2020,Morelos,,Vivienda Usada,77,54230258.4
 2020,Morelos,febrero,Vivienda Nueva,94,89671769.12
-2020,Morelos,,Vivienda Usada,41,31686806.40
-2020,Morelos,marzo,Vivienda Nueva,147,145042476.50
+2020,Morelos,,Vivienda Usada,41,31686806.4
+2020,Morelos,marzo,Vivienda Nueva,147,145042476.5
 2020,Morelos,,Vivienda Usada,57,45456384.19
 2020,Morelos,abril,Vivienda Nueva,85,86912130.89
 2020,Morelos,,Vivienda Usada,38,28213181.75
-2020,Morelos,mayo,Vivienda Nueva,128,134817696.20
+2020,Morelos,mayo,Vivienda Nueva,128,134817696.2
 2020,Morelos,,Vivienda Usada,31,23839213.35
-2020,Morelos,junio,Vivienda Nueva,165,162166588.20
+2020,Morelos,junio,Vivienda Nueva,165,162166588.2
 2020,Morelos,,Vivienda Usada,48,38820908.34
-2020,México,enero,Vivienda Nueva,374,282315830.50
-2020,México,,Vivienda Usada,240,165413100.30
+2020,México,enero,Vivienda Nueva,374,282315830.5
+2020,México,,Vivienda Usada,240,165413100.3
 2020,México,febrero,Vivienda Nueva,119,86872988.75
 2020,México,,Vivienda Usada,118,83537125.44
-2020,México,marzo,Vivienda Nueva,195,140715310.10
+2020,México,marzo,Vivienda Nueva,195,140715310.1
 2020,México,,Vivienda Usada,130,93709226.58
-2020,México,abril,Vivienda Nueva,160,109758719.60
+2020,México,abril,Vivienda Nueva,160,109758719.6
 2020,México,,Vivienda Usada,62,48504869.66
-2020,México,mayo,Vivienda Nueva,144,109159549.40
-2020,México,,Vivienda Usada,48,33370577.60
-2020,México,junio,Vivienda Nueva,283,209706673.00
+2020,México,mayo,Vivienda Nueva,144,109159549.4
+2020,México,,Vivienda Usada,48,33370577.6
+2020,México,junio,Vivienda Nueva,283,209706673
 2020,México,,Vivienda Usada,70,52517681.88
 2020,Nayarit,enero,Vivienda Nueva,51,34526735.27
 2020,Nayarit,,Vivienda Usada,38,27753799.52
@@ -980,7 +980,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Nayarit,abril,Vivienda Nueva,22,14193880.29
 2020,Nayarit,,Vivienda Usada,14,12800598.63
 2020,Nayarit,mayo,Vivienda Nueva,30,19214801.66
-2020,Nayarit,,Vivienda Usada,5,4848829.10
+2020,Nayarit,,Vivienda Usada,5,4848829.1
 2020,Nayarit,junio,Vivienda Nueva,32,22509894.34
 2020,Nayarit,,Vivienda Usada,27,20798066.05
 2020,Nuevo León,enero,Vivienda Nueva,95,50553403.04
@@ -1005,13 +1005,13 @@ año,estado,mes,modalidad,cred,monto
 2020,Oaxaca,,Vivienda Usada,60,41956150.28
 2020,Oaxaca,mayo,Vivienda Nueva,16,12112842.34
 2020,Oaxaca,,Vivienda Usada,31,21399316.09
-2020,Oaxaca,junio,Vivienda Nueva,39,30302856.40
+2020,Oaxaca,junio,Vivienda Nueva,39,30302856.4
 2020,Oaxaca,,Vivienda Usada,49,35057741.36
-2020,Puebla,enero,Vivienda Nueva,158,105434763.00
+2020,Puebla,enero,Vivienda Nueva,158,105434763
 2020,Puebla,,Vivienda Usada,98,66763874.79
 2020,Puebla,febrero,Vivienda Nueva,85,56054650.97
 2020,Puebla,,Vivienda Usada,69,50363837.67
-2020,Puebla,marzo,Vivienda Nueva,99,67862879.20
+2020,Puebla,marzo,Vivienda Nueva,99,67862879.2
 2020,Puebla,,Vivienda Usada,117,89050392.35
 2020,Puebla,abril,Vivienda Nueva,54,38653421.72
 2020,Puebla,,Vivienda Usada,53,40125867.55
@@ -1019,10 +1019,10 @@ año,estado,mes,modalidad,cred,monto
 2020,Puebla,,Vivienda Usada,36,28346458.25
 2020,Puebla,junio,Vivienda Nueva,120,87083997.92
 2020,Puebla,,Vivienda Usada,76,57166965.86
-2020,Querétaro,enero,Vivienda Nueva,173,119204794.10
+2020,Querétaro,enero,Vivienda Nueva,173,119204794.1
 2020,Querétaro,,Vivienda Usada,27,17534916.93
 2020,Querétaro,febrero,Vivienda Nueva,44,30525794.44
-2020,Querétaro,,Vivienda Usada,11,7737294.40
+2020,Querétaro,,Vivienda Usada,11,7737294.4
 2020,Querétaro,marzo,Vivienda Nueva,53,36612070.92
 2020,Querétaro,,Vivienda Usada,20,14724884.54
 2020,Querétaro,abril,Vivienda Nueva,40,30036408.36
@@ -1031,7 +1031,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Querétaro,,Vivienda Usada,7,6799255.58
 2020,Querétaro,junio,Vivienda Nueva,118,90635310.36
 2020,Querétaro,,Vivienda Usada,16,13312541.61
-2020,Quintana Roo,enero,Vivienda Nueva,223,141073831.10
+2020,Quintana Roo,enero,Vivienda Nueva,223,141073831.1
 2020,Quintana Roo,,Vivienda Usada,58,36107659.91
 2020,Quintana Roo,febrero,Vivienda Nueva,42,27822291.86
 2020,Quintana Roo,,Vivienda Usada,17,11797166.81
@@ -1041,7 +1041,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Quintana Roo,,Vivienda Usada,9,7588960.43
 2020,Quintana Roo,mayo,Vivienda Nueva,45,34266320.55
 2020,Quintana Roo,,Vivienda Usada,9,7236374.17
-2020,Quintana Roo,junio,Vivienda Nueva,131,86743130.20
+2020,Quintana Roo,junio,Vivienda Nueva,131,86743130.2
 2020,Quintana Roo,,Vivienda Usada,22,17287375.88
 2020,San Luis Potosí,enero,Vivienda Nueva,97,62651856.55
 2020,San Luis Potosí,,Vivienda Usada,66,42670110.19
@@ -1053,9 +1053,9 @@ año,estado,mes,modalidad,cred,monto
 2020,San Luis Potosí,,Vivienda Usada,29,19545633.65
 2020,San Luis Potosí,mayo,Vivienda Nueva,41,28605982.29
 2020,San Luis Potosí,,Vivienda Usada,25,17599172.56
-2020,San Luis Potosí,junio,Vivienda Nueva,66,46879550.50
+2020,San Luis Potosí,junio,Vivienda Nueva,66,46879550.5
 2020,San Luis Potosí,,Vivienda Usada,37,26904051.07
-2020,Sinaloa,enero,Vivienda Nueva,170,128577236.40
+2020,Sinaloa,enero,Vivienda Nueva,170,128577236.4
 2020,Sinaloa,,Vivienda Usada,128,83003190.13
 2020,Sinaloa,febrero,Vivienda Nueva,53,40159149.85
 2020,Sinaloa,,Vivienda Usada,23,13393035.73
@@ -1069,7 +1069,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Sinaloa,,Vivienda Usada,42,31327607.87
 2020,Sonora,enero,Vivienda Nueva,92,75976740.82
 2020,Sonora,,Vivienda Usada,93,66959375.22
-2020,Sonora,febrero,Vivienda Nueva,36,31375772.70
+2020,Sonora,febrero,Vivienda Nueva,36,31375772.7
 2020,Sonora,,Vivienda Usada,34,27432614.52
 2020,Sonora,marzo,Vivienda Nueva,26,22294581.53
 2020,Sonora,,Vivienda Usada,36,30952016.12
@@ -1098,16 +1098,16 @@ año,estado,mes,modalidad,cred,monto
 2020,Tamaulipas,marzo,Vivienda Nueva,7,3634774.35
 2020,Tamaulipas,,Vivienda Usada,120,81206358.53
 2020,Tamaulipas,abril,Vivienda Nueva,20,13012494.05
-2020,Tamaulipas,,Vivienda Usada,60,45180844.10
+2020,Tamaulipas,,Vivienda Usada,60,45180844.1
 2020,Tamaulipas,mayo,Vivienda Nueva,12,8482350.56
-2020,Tamaulipas,,Vivienda Usada,67,55951869.90
+2020,Tamaulipas,,Vivienda Usada,67,55951869.9
 2020,Tamaulipas,junio,Vivienda Nueva,25,18941359.37
 2020,Tamaulipas,,Vivienda Usada,101,79836682.43
 2020,Tlaxcala,enero,Vivienda Nueva,26,16162981.45
 2020,Tlaxcala,,Vivienda Usada,52,36754655.37
 2020,Tlaxcala,febrero,Vivienda Nueva,8,5782266.35
 2020,Tlaxcala,,Vivienda Usada,21,16551725.78
-2020,Tlaxcala,marzo,Vivienda Nueva,10,6300205.70
+2020,Tlaxcala,marzo,Vivienda Nueva,10,6300205.7
 2020,Tlaxcala,,Vivienda Usada,45,33227784.02
 2020,Tlaxcala,abril,Vivienda Nueva,10,6218441.58
 2020,Tlaxcala,,Vivienda Usada,20,15407375.88
@@ -1116,20 +1116,20 @@ año,estado,mes,modalidad,cred,monto
 2020,Tlaxcala,junio,Vivienda Nueva,20,14071573.55
 2020,Tlaxcala,,Vivienda Usada,42,36176685.46
 2020,Veracruz de Ignacio de la Llave,enero,Vivienda Nueva,126,93405888.37
-2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,279,193228546.50
+2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,279,193228546.5
 2020,Veracruz de Ignacio de la Llave,febrero,Vivienda Nueva,50,32173637.39
-2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,187,144004466.50
-2020,Veracruz de Ignacio de la Llave,marzo,Vivienda Nueva,108,77867714.00
-2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,335,259645630.70
-2020,Veracruz de Ignacio de la Llave,abril,Vivienda Nueva,44,27215161.70
+2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,187,144004466.5
+2020,Veracruz de Ignacio de la Llave,marzo,Vivienda Nueva,108,77867714
+2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,335,259645630.7
+2020,Veracruz de Ignacio de la Llave,abril,Vivienda Nueva,44,27215161.7
 2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,124,95209610.69
 2020,Veracruz de Ignacio de la Llave,mayo,Vivienda Nueva,61,45743247.35
 2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,111,82882939.62
 2020,Veracruz de Ignacio de la Llave,junio,Vivienda Nueva,113,70751393.89
-2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,197,155421022.40
-2020,Yucatán,enero,Vivienda Nueva,159,108516711.80
+2020,Veracruz de Ignacio de la Llave,,Vivienda Usada,197,155421022.4
+2020,Yucatán,enero,Vivienda Nueva,159,108516711.8
 2020,Yucatán,,Vivienda Usada,77,48820146.99
-2020,Yucatán,febrero,Vivienda Nueva,47,33005075.80
+2020,Yucatán,febrero,Vivienda Nueva,47,33005075.8
 2020,Yucatán,,Vivienda Usada,23,15894052.83
 2020,Yucatán,marzo,Vivienda Nueva,76,57337474.41
 2020,Yucatán,,Vivienda Usada,50,37934150.09
@@ -1149,7 +1149,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Zacatecas,,Vivienda Usada,6,4933931.24
 2020,Zacatecas,mayo,Vivienda Nueva,15,8476987.69
 2020,Zacatecas,,Vivienda Usada,9,6585469.95
-2020,Zacatecas,junio,Vivienda Nueva,57,35563656.50
+2020,Zacatecas,junio,Vivienda Nueva,57,35563656.5
 2020,Zacatecas,,Vivienda Usada,20,12779889.96
 2020,Aguascalientes,julio,Vivienda Nueva,71,49203337.84
 2020,Baja California,julio,Vivienda Nueva,33,26884185.19
@@ -1157,21 +1157,21 @@ año,estado,mes,modalidad,cred,monto
 2020,Campeche,julio,Vivienda Nueva,3,1724758.56
 2020,Chiapas,julio,Vivienda Nueva,62,40828674.91
 2020,Chihuahua,julio,Vivienda Nueva,72,56870622.64
-2020,Ciudad de México,julio,Vivienda Nueva,145,129826451.80
-2020,Coahuila de Zaragoza,julio,Vivienda Nueva,74,52008796.40
+2020,Ciudad de México,julio,Vivienda Nueva,145,129826451.8
+2020,Coahuila de Zaragoza,julio,Vivienda Nueva,74,52008796.4
 2020,Colima,julio,Vivienda Nueva,45,33110635.74
 2020,Durango,julio,Vivienda Nueva,75,45171478.13
 2020,Guanajuato,julio,Vivienda Nueva,120,84322701.47
 2020,Guerrero,julio,Vivienda Nueva,59,38751867.16
-2020,Hidalgo,julio,Vivienda Nueva,254,196895720.90
+2020,Hidalgo,julio,Vivienda Nueva,254,196895720.9
 2020,Jalisco,julio,Vivienda Nueva,80,61330959.74
 2020,Michoacán de Ocampo,julio,Vivienda Nueva,81,53337909.13
-2020,Morelos,julio,Vivienda Nueva,118,118210649.30
-2020,México,julio,Vivienda Nueva,216,156679035.00
+2020,Morelos,julio,Vivienda Nueva,118,118210649.3
+2020,México,julio,Vivienda Nueva,216,156679035
 2020,Nayarit,julio,Vivienda Nueva,21,15138385.79
-2020,Nuevo León,julio,Vivienda Nueva,103,69500511.30
-2020,Oaxaca,julio,Vivienda Nueva,55,46135498.10
-2020,Puebla,julio,Vivienda Nueva,97,68913004.30
+2020,Nuevo León,julio,Vivienda Nueva,103,69500511.3
+2020,Oaxaca,julio,Vivienda Nueva,55,46135498.1
+2020,Puebla,julio,Vivienda Nueva,97,68913004.3
 2020,Querétaro,julio,Vivienda Nueva,76,55028296.58
 2020,Quintana Roo,julio,Vivienda Nueva,91,63077544.81
 2020,San Luis Potosí,julio,Vivienda Nueva,61,47310589.84
@@ -1187,9 +1187,9 @@ año,estado,mes,modalidad,cred,monto
 2020,Baja California,julio,Vivienda Usada,30,25842623.57
 2020,Baja California Sur,julio,Vivienda Usada,45,32064256.83
 2020,Campeche,julio,Vivienda Usada,42,32758987.29
-2020,Chiapas,julio,Vivienda Usada,180,135770225.70
+2020,Chiapas,julio,Vivienda Usada,180,135770225.7
 2020,Chihuahua,julio,Vivienda Usada,86,62733322.13
-2020,Ciudad de México,julio,Vivienda Usada,184,161568168.70
+2020,Ciudad de México,julio,Vivienda Usada,184,161568168.7
 2020,Coahuila de Zaragoza,julio,Vivienda Usada,76,55944308.19
 2020,Colima,julio,Vivienda Usada,43,30040598.08
 2020,Durango,julio,Vivienda Usada,52,38106866.33
@@ -1210,10 +1210,10 @@ año,estado,mes,modalidad,cred,monto
 2020,Sinaloa,julio,Vivienda Usada,66,47858244.58
 2020,Sonora,julio,Vivienda Usada,50,37952602.56
 2020,Tabasco,julio,Vivienda Usada,32,27755457.83
-2020,Tamaulipas,julio,Vivienda Usada,152,120617333.00
+2020,Tamaulipas,julio,Vivienda Usada,152,120617333
 2020,Tlaxcala,julio,Vivienda Usada,57,51180087.31
-2020,Veracruz de Ignacio de la Llave,julio,Vivienda Usada,259,193362537.80
-2020,Yucatán,julio,Vivienda Usada,46,36489328.00
+2020,Veracruz de Ignacio de la Llave,julio,Vivienda Usada,259,193362537.8
+2020,Yucatán,julio,Vivienda Usada,46,36489328
 2020,Zacatecas,julio,Vivienda Usada,35,25037868.72
 2020,Aguascalientes,agosto,Vivienda Nueva,76,50946211.56
 2020,Baja California,agosto,Vivienda Nueva,23,18007701.39
@@ -1221,16 +1221,16 @@ año,estado,mes,modalidad,cred,monto
 2020,Campeche,agosto,Vivienda Nueva,7,5021678.37
 2020,Chiapas,agosto,Vivienda Nueva,53,36034777.72
 2020,Chihuahua,agosto,Vivienda Nueva,56,46247772.66
-2020,Ciudad de México,agosto,Vivienda Nueva,134,106749508.10
+2020,Ciudad de México,agosto,Vivienda Nueva,134,106749508.1
 2020,Coahuila de Zaragoza,agosto,Vivienda Nueva,58,41149885.71
 2020,Colima,agosto,Vivienda Nueva,38,30036002.67
 2020,Durango,agosto,Vivienda Nueva,48,28352344.85
 2020,Guanajuato,agosto,Vivienda Nueva,106,73361276.63
 2020,Guerrero,agosto,Vivienda Nueva,42,32153683.36
-2020,Hidalgo,agosto,Vivienda Nueva,200,139852668.50
+2020,Hidalgo,agosto,Vivienda Nueva,200,139852668.5
 2020,Jalisco,agosto,Vivienda Nueva,75,56812664.48
-2020,Michoacán de Ocampo,agosto,Vivienda Nueva,60,38421895.60
-2020,Morelos,agosto,Vivienda Nueva,112,108473205.70
+2020,Michoacán de Ocampo,agosto,Vivienda Nueva,60,38421895.6
+2020,Morelos,agosto,Vivienda Nueva,112,108473205.7
 2020,México,agosto,Vivienda Nueva,136,99937319.42
 2020,Nayarit,agosto,Vivienda Nueva,27,18220464.73
 2020,Nuevo León,agosto,Vivienda Nueva,57,32326423.46
@@ -1242,25 +1242,25 @@ año,estado,mes,modalidad,cred,monto
 2020,Sinaloa,agosto,Vivienda Nueva,92,67976678.58
 2020,Sonora,agosto,Vivienda Nueva,58,42956695.13
 2020,Tabasco,agosto,Vivienda Nueva,18,13308218.35
-2020,Tamaulipas,agosto,Vivienda Nueva,22,13670331.10
+2020,Tamaulipas,agosto,Vivienda Nueva,22,13670331.1
 2020,Tlaxcala,agosto,Vivienda Nueva,14,8386761.26
 2020,Veracruz de Ignacio de la Llave,agosto,Vivienda Nueva,74,51792433.22
 2020,Yucatán,agosto,Vivienda Nueva,56,43261467.45
 2020,Zacatecas,agosto,Vivienda Nueva,36,23815660.55
-2020,Aguascalientes,agosto,Vivienda Usada,39,31006174.50
+2020,Aguascalientes,agosto,Vivienda Usada,39,31006174.5
 2020,Baja California,agosto,Vivienda Usada,34,26345592.62
 2020,Baja California Sur,agosto,Vivienda Usada,47,32940551.26
-2020,Campeche,agosto,Vivienda Usada,40,36648510.30
-2020,Chiapas,agosto,Vivienda Usada,157,119395808.10
+2020,Campeche,agosto,Vivienda Usada,40,36648510.3
+2020,Chiapas,agosto,Vivienda Usada,157,119395808.1
 2020,Chihuahua,agosto,Vivienda Usada,80,59753061.21
-2020,Ciudad de México,agosto,Vivienda Usada,163,131817591.00
+2020,Ciudad de México,agosto,Vivienda Usada,163,131817591
 2020,Coahuila de Zaragoza,agosto,Vivienda Usada,82,65171013.61
 2020,Colima,agosto,Vivienda Usada,29,19612433.34
 2020,Durango,agosto,Vivienda Usada,66,46659477.16
 2020,Guanajuato,agosto,Vivienda Usada,60,39953782.12
 2020,Guerrero,agosto,Vivienda Usada,104,77754436.49
-2020,Hidalgo,agosto,Vivienda Usada,126,100388924.10
-2020,Jalisco,agosto,Vivienda Usada,52,35715387.50
+2020,Hidalgo,agosto,Vivienda Usada,126,100388924.1
+2020,Jalisco,agosto,Vivienda Usada,52,35715387.5
 2020,Michoacán de Ocampo,agosto,Vivienda Usada,75,49737017.91
 2020,Morelos,agosto,Vivienda Usada,91,68496703.85
 2020,México,agosto,Vivienda Usada,136,98484320.61
@@ -1271,16 +1271,16 @@ año,estado,mes,modalidad,cred,monto
 2020,Querétaro,agosto,Vivienda Usada,31,17991580.07
 2020,Quintana Roo,agosto,Vivienda Usada,36,26058336.73
 2020,San Luis Potosí,agosto,Vivienda Usada,79,60071771.95
-2020,Sinaloa,agosto,Vivienda Usada,69,48992901.20
+2020,Sinaloa,agosto,Vivienda Usada,69,48992901.2
 2020,Sonora,agosto,Vivienda Usada,46,35652944.35
 2020,Tabasco,agosto,Vivienda Usada,55,44292824.51
 2020,Tamaulipas,agosto,Vivienda Usada,102,77943205.56
 2020,Tlaxcala,agosto,Vivienda Usada,48,38529382.54
-2020,Veracruz de Ignacio de la Llave,agosto,Vivienda Usada,266,203587288.30
+2020,Veracruz de Ignacio de la Llave,agosto,Vivienda Usada,266,203587288.3
 2020,Yucatán,agosto,Vivienda Usada,57,39151723.11
 2020,Zacatecas,agosto,Vivienda Usada,14,10339381.15
 2020,Aguascalientes,septiembre,Vivienda Nueva,71,45726782.82
-2020,Baja California,septiembre,Vivienda Nueva,22,18213964.50
+2020,Baja California,septiembre,Vivienda Nueva,22,18213964.5
 2020,Baja California Sur,septiembre,Vivienda Nueva,45,32395854.27
 2020,Campeche,septiembre,Vivienda Nueva,10,5683789.24
 2020,Chiapas,septiembre,Vivienda Nueva,54,36749984.05
@@ -1291,23 +1291,23 @@ año,estado,mes,modalidad,cred,monto
 2020,Durango,septiembre,Vivienda Nueva,49,33366430.07
 2020,Guanajuato,septiembre,Vivienda Nueva,85,51843025.97
 2020,Guerrero,septiembre,Vivienda Nueva,40,31544386.47
-2020,Hidalgo,septiembre,Vivienda Nueva,218,159715781.90
+2020,Hidalgo,septiembre,Vivienda Nueva,218,159715781.9
 2020,Jalisco,septiembre,Vivienda Nueva,102,73888818.36
-2020,México,septiembre,Vivienda Nueva,172,128148557.70
+2020,México,septiembre,Vivienda Nueva,172,128148557.7
 2020,Michoacán de Ocampo,septiembre,Vivienda Nueva,59,36057087.82
-2020,Morelos,septiembre,Vivienda Nueva,110,107805850.20
-2020,Nayarit,septiembre,Vivienda Nueva,24,16566632.20
+2020,Morelos,septiembre,Vivienda Nueva,110,107805850.2
+2020,Nayarit,septiembre,Vivienda Nueva,24,16566632.2
 2020,Nuevo León,septiembre,Vivienda Nueva,84,51129212.82
-2020,Oaxaca,septiembre,Vivienda Nueva,37,28418892.50
+2020,Oaxaca,septiembre,Vivienda Nueva,37,28418892.5
 2020,Puebla,septiembre,Vivienda Nueva,89,63815791.21
-2020,Querétaro,septiembre,Vivienda Nueva,114,88625094.00
-2020,Quintana Roo,septiembre,Vivienda Nueva,195,139413611.30
+2020,Querétaro,septiembre,Vivienda Nueva,114,88625094
+2020,Quintana Roo,septiembre,Vivienda Nueva,195,139413611.3
 2020,San Luis Potosí,septiembre,Vivienda Nueva,50,35186083.43
 2020,Sinaloa,septiembre,Vivienda Nueva,77,61071307.67
 2020,Sonora,septiembre,Vivienda Nueva,47,34196852.05
 2020,Tabasco,septiembre,Vivienda Nueva,17,13653810.84
 2020,Tamaulipas,septiembre,Vivienda Nueva,18,13522360.96
-2020,Tlaxcala,septiembre,Vivienda Nueva,32,18244410.00
+2020,Tlaxcala,septiembre,Vivienda Nueva,32,18244410
 2020,Veracruz de Ignacio de la Llave,septiembre,Vivienda Nueva,73,51969273.41
 2020,Yucatán,septiembre,Vivienda Nueva,78,57708508.28
 2020,Zacatecas,septiembre,Vivienda Nueva,43,28850776.23
@@ -1315,17 +1315,17 @@ año,estado,mes,modalidad,cred,monto
 2020,Baja California,septiembre,Vivienda Usada,28,20191489.59
 2020,Baja California Sur,septiembre,Vivienda Usada,65,47621619.95
 2020,Campeche,septiembre,Vivienda Usada,62,48761385.73
-2020,Chiapas,septiembre,Vivienda Usada,168,122385776.40
+2020,Chiapas,septiembre,Vivienda Usada,168,122385776.4
 2020,Chihuahua,septiembre,Vivienda Usada,124,96459112.09
-2020,Ciudad de México,septiembre,Vivienda Usada,234,191003144.70
+2020,Ciudad de México,septiembre,Vivienda Usada,234,191003144.7
 2020,Coahuila de Zaragoza,septiembre,Vivienda Usada,72,52001150.29
 2020,Colima,septiembre,Vivienda Usada,31,18434130.15
 2020,Durango,septiembre,Vivienda Usada,60,41964843.84
 2020,Guanajuato,septiembre,Vivienda Usada,61,43892360.73
-2020,Guerrero,septiembre,Vivienda Usada,153,118972966.00
+2020,Guerrero,septiembre,Vivienda Usada,153,118972966
 2020,Hidalgo,septiembre,Vivienda Usada,131,91879565.93
 2020,Jalisco,septiembre,Vivienda Usada,58,45567974.23
-2020,México,septiembre,Vivienda Usada,175,128466523.70
+2020,México,septiembre,Vivienda Usada,175,128466523.7
 2020,Michoacán de Ocampo,septiembre,Vivienda Usada,93,61336174.45
 2020,Morelos,septiembre,Vivienda Usada,95,72956016.16
 2020,Nayarit,septiembre,Vivienda Usada,43,29877097.85
@@ -1336,13 +1336,13 @@ año,estado,mes,modalidad,cred,monto
 2020,Quintana Roo,septiembre,Vivienda Usada,61,48458599.22
 2020,San Luis Potosí,septiembre,Vivienda Usada,75,55139947.83
 2020,Sinaloa,septiembre,Vivienda Usada,70,48385097.91
-2020,Sonora,septiembre,Vivienda Usada,55,43956908.50
+2020,Sonora,septiembre,Vivienda Usada,55,43956908.5
 2020,Tabasco,septiembre,Vivienda Usada,91,73357423.44
-2020,Tamaulipas,septiembre,Vivienda Usada,147,110456341.80
+2020,Tamaulipas,septiembre,Vivienda Usada,147,110456341.8
 2020,Tlaxcala,septiembre,Vivienda Usada,57,45531076.22
-2020,Veracruz de Ignacio de la Llave,septiembre,Vivienda Usada,305,229619285.60
+2020,Veracruz de Ignacio de la Llave,septiembre,Vivienda Usada,305,229619285.6
 2020,Yucatán,septiembre,Vivienda Usada,50,36365513.61
-2020,Zacatecas,septiembre,Vivienda Usada,32,20246264.30
+2020,Zacatecas,septiembre,Vivienda Usada,32,20246264.3
 2020,Aguascalientes,octubre,Vivienda Nueva,79,51571027.88
 2020,Baja California,octubre,Vivienda Nueva,16,11768038.74
 2020,Baja California Sur,octubre,Vivienda Nueva,32,24486553.06
@@ -1355,33 +1355,33 @@ año,estado,mes,modalidad,cred,monto
 2020,Durango,octubre,Vivienda Nueva,57,32711193.35
 2020,Guanajuato,octubre,Vivienda Nueva,90,58254352.39
 2020,Guerrero,octubre,Vivienda Nueva,43,31717423.66
-2020,Hidalgo,octubre,Vivienda Nueva,144,113210963.40
+2020,Hidalgo,octubre,Vivienda Nueva,144,113210963.4
 2020,Jalisco,octubre,Vivienda Nueva,69,51974048.39
-2020,México,octubre,Vivienda Nueva,190,136110068.30
+2020,México,octubre,Vivienda Nueva,190,136110068.3
 2020,Michoacán de Ocampo,octubre,Vivienda Nueva,78,54133886.58
-2020,Morelos,octubre,Vivienda Nueva,161,162380626.90
+2020,Morelos,octubre,Vivienda Nueva,161,162380626.9
 2020,Nayarit,octubre,Vivienda Nueva,35,24070720.75
 2020,Nuevo León,octubre,Vivienda Nueva,74,45920979.51
 2020,Oaxaca,octubre,Vivienda Nueva,32,28471762.93
 2020,Puebla,octubre,Vivienda Nueva,79,50085761.04
 2020,Querétaro,octubre,Vivienda Nueva,88,65014296.81
 2020,Quintana Roo,octubre,Vivienda Nueva,89,65870718.08
-2020,San Luis Potosí,octubre,Vivienda Nueva,55,37157141.30
+2020,San Luis Potosí,octubre,Vivienda Nueva,55,37157141.3
 2020,Sinaloa,octubre,Vivienda Nueva,83,56759675.97
 2020,Sonora,octubre,Vivienda Nueva,52,40340409.11
 2020,Tabasco,octubre,Vivienda Nueva,21,13885058.35
 2020,Tamaulipas,octubre,Vivienda Nueva,23,16728855.71
 2020,Tlaxcala,octubre,Vivienda Nueva,10,6740845.16
 2020,Veracruz de Ignacio de la Llave,octubre,Vivienda Nueva,73,52503937.56
-2020,Yucatán,octubre,Vivienda Nueva,104,78749340.70
-2020,Zacatecas,octubre,Vivienda Nueva,45,27193093.00
+2020,Yucatán,octubre,Vivienda Nueva,104,78749340.7
+2020,Zacatecas,octubre,Vivienda Nueva,45,27193093
 2020,Aguascalientes,octubre,Vivienda Usada,33,20849025.65
 2020,Baja California,octubre,Vivienda Usada,35,28161315.91
 2020,Baja California Sur,octubre,Vivienda Usada,60,40339154.74
 2020,Campeche,octubre,Vivienda Usada,85,66090791.63
-2020,Chiapas,octubre,Vivienda Usada,203,146359558.70
+2020,Chiapas,octubre,Vivienda Usada,203,146359558.7
 2020,Chihuahua,octubre,Vivienda Usada,111,81820756.84
-2020,Ciudad de México,octubre,Vivienda Usada,215,187100851.30
+2020,Ciudad de México,octubre,Vivienda Usada,215,187100851.3
 2020,Coahuila de Zaragoza,octubre,Vivienda Usada,81,58901796.25
 2020,Colima,octubre,Vivienda Usada,17,10778057.86
 2020,Durango,octubre,Vivienda Usada,51,32693543.64
@@ -1389,12 +1389,12 @@ año,estado,mes,modalidad,cred,monto
 2020,Guerrero,octubre,Vivienda Usada,133,95189743.11
 2020,Hidalgo,octubre,Vivienda Usada,111,82112004.79
 2020,Jalisco,octubre,Vivienda Usada,50,43865430.59
-2020,México,octubre,Vivienda Usada,191,144004013.50
+2020,México,octubre,Vivienda Usada,191,144004013.5
 2020,Michoacán de Ocampo,octubre,Vivienda Usada,71,45432701.11
 2020,Morelos,octubre,Vivienda Usada,93,71523773.55
 2020,Nayarit,octubre,Vivienda Usada,44,29685842.42
 2020,Nuevo León,octubre,Vivienda Usada,45,31115180.59
-2020,Oaxaca,octubre,Vivienda Usada,81,59896260.70
+2020,Oaxaca,octubre,Vivienda Usada,81,59896260.7
 2020,Puebla,octubre,Vivienda Usada,103,76962227.08
 2020,Querétaro,octubre,Vivienda Usada,34,29319492.17
 2020,Quintana Roo,octubre,Vivienda Usada,46,30428583.17
@@ -1404,12 +1404,12 @@ año,estado,mes,modalidad,cred,monto
 2020,Tabasco,octubre,Vivienda Usada,85,63700592.76
 2020,Tamaulipas,octubre,Vivienda Usada,104,79163292.08
 2020,Tlaxcala,octubre,Vivienda Usada,51,46255019.39
-2020,Veracruz de Ignacio de la Llave,octubre,Vivienda Usada,276,203929336.30
+2020,Veracruz de Ignacio de la Llave,octubre,Vivienda Usada,276,203929336.3
 2020,Yucatán,octubre,Vivienda Usada,60,43213377.51
 2020,Zacatecas,octubre,Vivienda Usada,48,30377490.56
 2020,Aguascalientes,noviembre,Vivienda Nueva,43,24562891.23
 2020,Baja California,noviembre,Vivienda Nueva,16,10074056.44
-2020,Baja California Sur,noviembre,Vivienda Nueva,30,19716525.40
+2020,Baja California Sur,noviembre,Vivienda Nueva,30,19716525.4
 2020,Campeche,noviembre,Vivienda Nueva,3,2047434.63
 2020,Chiapas,noviembre,Vivienda Nueva,45,29364063.42
 2020,Chihuahua,noviembre,Vivienda Nueva,26,17772007.15
@@ -1421,9 +1421,9 @@ año,estado,mes,modalidad,cred,monto
 2020,Guerrero,noviembre,Vivienda Nueva,35,26019980.19
 2020,Hidalgo,noviembre,Vivienda Nueva,116,84878415.91
 2020,Jalisco,noviembre,Vivienda Nueva,71,52781486.38
-2020,México,noviembre,Vivienda Nueva,193,123729024.00
+2020,México,noviembre,Vivienda Nueva,193,123729024
 2020,Michoacán de Ocampo,noviembre,Vivienda Nueva,52,32527081.22
-2020,Morelos,noviembre,Vivienda Nueva,154,156162719.20
+2020,Morelos,noviembre,Vivienda Nueva,154,156162719.2
 2020,Nayarit,noviembre,Vivienda Nueva,18,12432422.91
 2020,Nuevo León,noviembre,Vivienda Nueva,46,26692782.22
 2020,Oaxaca,noviembre,Vivienda Nueva,12,9688609.65
@@ -1435,7 +1435,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Sonora,noviembre,Vivienda Nueva,40,31233158.68
 2020,Tabasco,noviembre,Vivienda Nueva,12,10905072.82
 2020,Tamaulipas,noviembre,Vivienda Nueva,11,5879162.56
-2020,Tlaxcala,noviembre,Vivienda Nueva,13,9856118.30
+2020,Tlaxcala,noviembre,Vivienda Nueva,13,9856118.3
 2020,Veracruz de Ignacio de la Llave,noviembre,Vivienda Nueva,48,30513507.12
 2020,Yucatán,noviembre,Vivienda Nueva,54,36093694.48
 2020,Zacatecas,noviembre,Vivienda Nueva,21,15080281.65
@@ -1443,9 +1443,9 @@ año,estado,mes,modalidad,cred,monto
 2020,Baja California,noviembre,Vivienda Usada,32,24178066.95
 2020,Baja California Sur,noviembre,Vivienda Usada,43,29760111.23
 2020,Campeche,noviembre,Vivienda Usada,45,32966379.31
-2020,Chiapas,noviembre,Vivienda Usada,149,113787545.00
+2020,Chiapas,noviembre,Vivienda Usada,149,113787545
 2020,Chihuahua,noviembre,Vivienda Usada,80,53168533.86
-2020,Ciudad de México,noviembre,Vivienda Usada,196,146109625.70
+2020,Ciudad de México,noviembre,Vivienda Usada,196,146109625.7
 2020,Coahuila de Zaragoza,noviembre,Vivienda Usada,82,58476398.74
 2020,Colima,noviembre,Vivienda Usada,11,7148939.58
 2020,Durango,noviembre,Vivienda Usada,52,32503860.54
@@ -1453,7 +1453,7 @@ año,estado,mes,modalidad,cred,monto
 2020,Guerrero,noviembre,Vivienda Usada,100,74121788.83
 2020,Hidalgo,noviembre,Vivienda Usada,101,70045258.84
 2020,Jalisco,noviembre,Vivienda Usada,32,22835771.42
-2020,México,noviembre,Vivienda Usada,155,107432695.90
+2020,México,noviembre,Vivienda Usada,155,107432695.9
 2020,Michoacán de Ocampo,noviembre,Vivienda Usada,51,32558558.05
 2020,Morelos,noviembre,Vivienda Usada,62,51118870.93
 2020,Nayarit,noviembre,Vivienda Usada,33,23741350.96
@@ -1468,11 +1468,11 @@ año,estado,mes,modalidad,cred,monto
 2020,Tabasco,noviembre,Vivienda Usada,68,49187797.76
 2020,Tamaulipas,noviembre,Vivienda Usada,66,47461028.36
 2020,Tlaxcala,noviembre,Vivienda Usada,35,29183114.41
-2020,Veracruz de Ignacio de la Llave,noviembre,Vivienda Usada,153,109004876.90
-2020,Yucatán,noviembre,Vivienda Usada,36,24394434.30
+2020,Veracruz de Ignacio de la Llave,noviembre,Vivienda Usada,153,109004876.9
+2020,Yucatán,noviembre,Vivienda Usada,36,24394434.3
 2020,Zacatecas,noviembre,Vivienda Usada,22,15644115.22
 2020,Aguascalientes,diciembre,Vivienda Nueva,49,27566402.07
-2020,Baja California,diciembre,Vivienda Nueva,10,6551500.00
+2020,Baja California,diciembre,Vivienda Nueva,10,6551500
 2020,Baja California Sur,diciembre,Vivienda Nueva,51,35839866.33
 2020,Campeche,diciembre,Vivienda Nueva,5,4946226.52
 2020,Chiapas,diciembre,Vivienda Nueva,24,13658202.68
@@ -1483,19 +1483,19 @@ año,estado,mes,modalidad,cred,monto
 2020,Durango,diciembre,Vivienda Nueva,24,10860405.23
 2020,Guanajuato,diciembre,Vivienda Nueva,40,22416082.12
 2020,Guerrero,diciembre,Vivienda Nueva,60,44005507.64
-2020,Hidalgo,diciembre,Vivienda Nueva,170,118946311.59
+2020,Hidalgo,diciembre,Vivienda Nueva,170,118946311.6
 2020,Jalisco,diciembre,Vivienda Nueva,113,70409124.86
-2020,México,diciembre,Vivienda Nueva,274,184982495.08
+2020,México,diciembre,Vivienda Nueva,274,184982495.1
 2020,Michoacán de Ocampo,diciembre,Vivienda Nueva,67,37564750.94
-2020,Morelos,diciembre,Vivienda Nueva,124,116382583.74
+2020,Morelos,diciembre,Vivienda Nueva,124,116382583.7
 2020,Nayarit,diciembre,Vivienda Nueva,39,26616779.66
 2020,Nuevo León,diciembre,Vivienda Nueva,27,16712295.88
 2020,Oaxaca,diciembre,Vivienda Nueva,35,24125048.49
-2020,Puebla,diciembre,Vivienda Nueva,100,64770541.00
+2020,Puebla,diciembre,Vivienda Nueva,100,64770541
 2020,Querétaro,diciembre,Vivienda Nueva,64,40759604.71
 2020,Quintana Roo,diciembre,Vivienda Nueva,123,86086609.44
 2020,San Luis Potosí,diciembre,Vivienda Nueva,51,27628118.45
-2020,Sinaloa,diciembre,Vivienda Nueva,73,53488929.90
+2020,Sinaloa,diciembre,Vivienda Nueva,73,53488929.9
 2020,Sonora,diciembre,Vivienda Nueva,41,34144235.27
 2020,Tabasco,diciembre,Vivienda Nueva,8,7097191.35
 2020,Tamaulipas,diciembre,Vivienda Nueva,10,6648989.55
@@ -1503,36 +1503,100 @@ año,estado,mes,modalidad,cred,monto
 2020,Veracruz de Ignacio de la Llave,diciembre,Vivienda Nueva,72,42383604.65
 2020,Yucatán,diciembre,Vivienda Nueva,83,62591706.45
 2020,Zacatecas,diciembre,Vivienda Nueva,38,26685854.02
-2020,Aguascalientes,diciembre,Vivienda Usada,8,4280518.30
+2020,Aguascalientes,diciembre,Vivienda Usada,8,4280518.3
 2020,Baja California,diciembre,Vivienda Usada,18,14004526.79
-2020,Baja California Sur,diciembre,Vivienda Usada,25,17597239.60
+2020,Baja California Sur,diciembre,Vivienda Usada,25,17597239.6
 2020,Campeche,diciembre,Vivienda Usada,40,29027997.51
-2020,Chiapas,diciembre,Vivienda Usada,113,76612790.20
+2020,Chiapas,diciembre,Vivienda Usada,113,76612790.2
 2020,Chihuahua,diciembre,Vivienda Usada,74,47759633.95
-2020,Ciudad de México,diciembre,Vivienda Usada,201,140097852.04
+2020,Ciudad de México,diciembre,Vivienda Usada,201,140097852
 2020,Coahuila de Zaragoza,diciembre,Vivienda Usada,52,33760577.12
 2020,Colima,diciembre,Vivienda Usada,6,3471537.98
 2020,Durango,diciembre,Vivienda Usada,30,18384142.78
 2020,Guanajuato,diciembre,Vivienda Usada,26,17162428.82
 2020,Guerrero,diciembre,Vivienda Usada,75,50309882.25
-2020,Hidalgo,diciembre,Vivienda Usada,82,61878128.00
+2020,Hidalgo,diciembre,Vivienda Usada,82,61878128
 2020,Jalisco,diciembre,Vivienda Usada,33,20545237.83
-2020,México,diciembre,Vivienda Usada,164,103835986.01
+2020,México,diciembre,Vivienda Usada,164,103835986
 2020,Michoacán de Ocampo,diciembre,Vivienda Usada,26,16756917.72
 2020,Morelos,diciembre,Vivienda Usada,55,37263661.64
 2020,Nayarit,diciembre,Vivienda Usada,18,14362887.26
-2020,Nuevo León,diciembre,Vivienda Usada,33,20897827.10
+2020,Nuevo León,diciembre,Vivienda Usada,33,20897827.1
 2020,Oaxaca,diciembre,Vivienda Usada,43,28138700.76
 2020,Puebla,diciembre,Vivienda Usada,60,40151778.41
 2020,Querétaro,diciembre,Vivienda Usada,23,12586453.15
 2020,Quintana Roo,diciembre,Vivienda Usada,21,13174189.43
-2020,San Luis Potosí,diciembre,Vivienda Usada,39,26925095.40
+2020,San Luis Potosí,diciembre,Vivienda Usada,39,26925095.4
 2020,Sinaloa,diciembre,Vivienda Usada,41,24299657.19
 2020,Sonora,diciembre,Vivienda Usada,49,33193528.11
 2020,Tabasco,diciembre,Vivienda Usada,49,36743287.45
 2020,Tamaulipas,diciembre,Vivienda Usada,70,55194498.25
 2020,Tlaxcala,diciembre,Vivienda Usada,50,47039443.94
 2020,Veracruz de Ignacio de la Llave,diciembre,Vivienda Usada,76,49774266.02
-2020,Yucatán,diciembre,Vivienda Usada,36,23633980.30
+2020,Yucatán,diciembre,Vivienda Usada,36,23633980.3
 2020,Zacatecas,diciembre,Vivienda Usada,27,16757009.05
-,,total,1,1,
+2021,Aguascalientes,enero,Vivienda Nueva,46,33525432.47
+2021,Baja California,enero,Vivienda Nueva,21,17920541.03
+2021,Baja California Sur,enero,Vivienda Nueva,52,38735420.22
+2021,Campeche,enero,Vivienda Nueva,3,3402162.45
+2021,Chiapas,enero,Vivienda Nueva,61,40339346.32
+2021,Chihuahua,enero,Vivienda Nueva,66,46355638.94
+2021,Ciudad de México,enero,Vivienda Nueva,63,55452081.68
+2021,Coahuila de Zaragoza,enero,Vivienda Nueva,19,12733869.22
+2021,Colima,enero,Vivienda Nueva,14,12297403.78
+2021,Durango,enero,Vivienda Nueva,20,11718095.67
+2021,Guanajuato,enero,Vivienda Nueva,73,54571051.44
+2021,Guerrero,enero,Vivienda Nueva,121,89148442.48
+2021,Hidalgo,enero,Vivienda Nueva,230,179547524.3
+2021,Jalisco,enero,Vivienda Nueva,95,72481490.19
+2021,México,enero,Vivienda Nueva,269,192258408
+2021,Michoacán de Ocampo,enero,Vivienda Nueva,73,51969426.08
+2021,Morelos,enero,Vivienda Nueva,99,77510680.15
+2021,Nayarit,enero,Vivienda Nueva,39,22484586.17
+2021,Nuevo León,enero,Vivienda Nueva,46,29798329.54
+2021,Oaxaca,enero,Vivienda Nueva,57,43057221.44
+2021,Puebla,enero,Vivienda Nueva,165,114078027.5
+2021,Querétaro,enero,Vivienda Nueva,40,33688071.81
+2021,Quintana Roo,enero,Vivienda Nueva,154,81455982.04
+2021,San Luis Potosí,enero,Vivienda Nueva,66,42462944.27
+2021,Sinaloa,enero,Vivienda Nueva,77,65079998.24
+2021,Sonora,enero,Vivienda Nueva,49,40055881.27
+2021,Tabasco,enero,Vivienda Nueva,10,9131861.49
+2021,Tamaulipas,enero,Vivienda Nueva,13,8436261.52
+2021,Tlaxcala,enero,Vivienda Nueva,21,16214000.46
+2021,Veracruz de Ignacio de la Llave,enero,Vivienda Nueva,77,56836839.9
+2021,Yucatán,enero,Vivienda Nueva,75,61499110.54
+2021,Zacatecas,enero,Vivienda Nueva,32,24258985.38
+2021,Aguascalientes,enero,Vivienda Usada,0,0
+2021,Baja California,enero,Vivienda Usada,16,13710822.9
+2021,Baja California Sur,enero,Vivienda Usada,21,14342299.63
+2021,Campeche,enero,Vivienda Usada,27,21331451.14
+2021,Chiapas,enero,Vivienda Usada,99,71034036.62
+2021,Chihuahua,enero,Vivienda Usada,76,55634167.26
+2021,Ciudad de México,enero,Vivienda Usada,78,67596649.45
+2021,Coahuila de Zaragoza,enero,Vivienda Usada,54,36348984.92
+2021,Colima,enero,Vivienda Usada,6,4308700.37
+2021,Durango,enero,Vivienda Usada,13,11785894.3
+2021,Guanajuato,enero,Vivienda Usada,29,18274751.56
+2021,Guerrero,enero,Vivienda Usada,66,43208390.72
+2021,Hidalgo,enero,Vivienda Usada,53,41231078.65
+2021,Jalisco,enero,Vivienda Usada,31,23416470.89
+2021,México,enero,Vivienda Usada,82,65580850.54
+2021,Michoacán de Ocampo,enero,Vivienda Usada,36,25352907.43
+2021,Morelos,enero,Vivienda Usada,35,49864842.41
+2021,Nayarit,enero,Vivienda Usada,8,12351670.78
+2021,Nuevo León,enero,Vivienda Usada,13,9116199.78
+2021,Oaxaca,enero,Vivienda Usada,60,44990208.85
+2021,Puebla,enero,Vivienda Usada,39,37910730.12
+2021,Querétaro,enero,Vivienda Usada,9,7914350.92
+2021,Quintana Roo,enero,Vivienda Usada,12,36473622.77
+2021,San Luis Potosí,enero,Vivienda Usada,21,16626104.23
+2021,Sinaloa,enero,Vivienda Usada,37,23473233.5
+2021,Sonora,enero,Vivienda Usada,39,25291556.84
+2021,Tabasco,enero,Vivienda Usada,25,20108162.13
+2021,Tamaulipas,enero,Vivienda Usada,65,52924235.28
+2021,Tlaxcala,enero,Vivienda Usada,27,24930703.62
+2021,Veracruz de Ignacio de la Llave,enero,Vivienda Usada,142,110925219
+2021,Yucatán,enero,Vivienda Usada,26,17193536.87
+2021,Zacatecas,enero,Vivienda Usada,17,10841411.14
+,,,tot,11,1
