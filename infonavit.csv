@@ -3284,4 +3284,137 @@ año,estado,mes,modalidad,cred,monto
 ,,,Nueva,177,78607211.85
 ,,,Pago de pasivos,1,311890.19
 ,,,Usada,91,41579604.91
+2021,Aguascalientes,enero,Ampliación y rehabilitación,219,9447673.29
+,,,Nueva,434,186116343.6
+,,,Pago de pasivos,2,2263816.71
+,,,Usada,148,69070428.87
+,Baja California,enero,Ampliación y rehabilitación,676,221656.57
+,,,Con disponibilidad de terreno,4,2980778
+,,,Nueva,538,270345802.3
+,,,Pago de pasivos,1,204242.89
+,,,Usada,275,154860939
+,Baja California Sur,enero,Ampliación y rehabilitación,205,224865.17
+,,,Con disponibilidad de terreno,33,13566409.89
+,,,Nueva,46,25806579.84
+,,,Usada,95,48358001.06
+,Campeche,enero,Ampliación y rehabilitación,150,1169519.85
+,,,Con disponibilidad de terreno,1,1481492.23
+,,,Nueva,6,2705624.23
+,,,Usada,63,32319344.36
+,Chiapas,enero,Ampliación y rehabilitación,278,3094595.01
+,,,Con disponibilidad de terreno,1,981328.4
+,,,Nueva,53,27595005.47
+,,,Usada,98,49052258.38
+,Chihuahua,enero,Ampliación y rehabilitación,950,6051737.35
+,,,Con disponibilidad de terreno,17,7095159.76
+,,,Nueva,567,264710766.9
+,,,Pago de pasivos,1,629269.7
+,,,Usada,585,297712127.9
+,Ciudad de México,enero,Ampliación y rehabilitación,591,34054356.25
+,,,Nueva,293,161308692.4
+,,,Pago de pasivos,2,2124583.88
+,,,Usada,186,132925257
+,Coahuila de Zaragoza,enero,Ampliación y rehabilitación,363,2087022.74
+,,,Con disponibilidad de terreno,3,1558993.57
+,,,Nueva,369,178724950.2
+,,,Usada,312,146065007.8
+,Colima,enero,Ampliación y rehabilitación,41,
+,,,Nueva,75,31238699.41
+,,,Usada,45,18045715.25
+,Durango,enero,Ampliación y rehabilitación,314,
+,,,Con disponibilidad de terreno,48,24580966.93
+,,,Nueva,107,47778122.55
+,,,Usada,137,64847026.66
+,Guanajuato,enero,Ampliación y rehabilitación,175,
+,,,Con disponibilidad de terreno,14,6339358.31
+,,,Nueva,598,268234068.8
+,,,Pago de pasivos,1,365011.07
+,,,Usada,285,130730983.1
+,Guerrero,enero,Ampliación y rehabilitación,70,133798.91
+,,,Nueva,51,34045026.5
+,,,Usada,94,43295236.04
+,Hidalgo,enero,Ampliación y rehabilitación,67,2455218.08
+,,,Con disponibilidad de terreno,8,4851932.54
+,,,Nueva,274,153849746.5
+,,,Pago de pasivos,1,507923.4
+,,,Usada,64,31685876.23
+,Jalisco,enero,Ampliación y rehabilitación,706,37824552.9
+,,,Con disponibilidad de terreno,32,23308971.96
+,,,Nueva,1131,501961330.6
+,,,Pago de pasivos,1,570344.1
+,,,Usada,577,273352799.4
+,Michoacán de Ocampo,enero,Ampliación y rehabilitación,78,
+,,,Con disponibilidad de terreno,2,1610550.01
+,,,Nueva,116,47914458.28
+,,,Usada,73,35008249.1
+,Morelos,enero,Ampliación y rehabilitación,95,390863.03
+,,,Nueva,44,30732897.14
+,,,Usada,78,48756318.5
+,México,enero,Ampliación y rehabilitación,1271,56688737.54
+,,,Con disponibilidad de terreno,2,534910.14
+,,,Nueva,1066,540327775.8
+,,,Pago de pasivos,2,1771561.18
+,,,Usada,550,307999207.5
+,Nayarit,enero,Ampliación y rehabilitación,44,1481055.71
+,,,Nueva,64,32289113.89
+,,,Usada,58,26416607.84
+,Nuevo León,enero,Ampliación y rehabilitación,1040,31198719.72
+,,,Con disponibilidad de terreno,120,48788017.07
+,,,Nueva,1824,866472103.9
+,,,Pago de pasivos,5,2057156.92
+,,,Usada,479,260458532.7
+,Oaxaca,enero,Ampliación y rehabilitación,137,
+,,,Con disponibilidad de terreno,1,578743.38
+,,,Nueva,6,5916802.87
+,,,Usada,18,7940936.68
+,Puebla,enero,Ampliación y rehabilitación,251,5159816.89
+,,,Con disponibilidad de terreno,2,970277.91
+,,,Nueva,310,151195426.7
+,,,Usada,158,79731503.5
+,Querétaro,enero,Ampliación y rehabilitación,146,191007.85
+,,,Con disponibilidad de terreno,3,3630265.43
+,,,Nueva,351,195854468.9
+,,,Usada,78,38753562.38
+,Quintana Roo,enero,Ampliación y rehabilitación,58,
+,,,Nueva,614,269242400.1
+,,,Pago de pasivos,8,3321375.74
+,,,Usada,88,38415405.91
+,San Luis Potosí,enero,Ampliación y rehabilitación,74,719577.15
+,,,Con disponibilidad de terreno,36,18179654.56
+,,,Nueva,200,103526987.9
+,,,Pago de pasivos,2,1440917.65
+,,,Usada,218,101310013.4
+,Sinaloa,enero,Ampliación y rehabilitación,154,1593698.36
+,,,Con disponibilidad de terreno,7,2682692
+,,,Nueva,249,109265207.5
+,,,Pago de pasivos,1,159931.96
+,,,Usada,243,101972995
+,Sonora,enero,Ampliación y rehabilitación,282,3614881.61
+,,,Con disponibilidad de terreno,3,1757732.33
+,,,Nueva,341,161946024.2
+,,,Usada,258,120147096.7
+,Tabasco,enero,Ampliación y rehabilitación,165,
+,,,Con disponibilidad de terreno,1,611137.3
+,,,Nueva,49,28422945.8
+,,,Usada,98,48180980.37
+,Tamaulipas,enero,Ampliación y rehabilitación,271,3948618.12
+,,,Con disponibilidad de terreno,34,15755948.84
+,,,Nueva,450,201856228
+,,,Usada,324,153559446.5
+,Tlaxcala,enero,Ampliación y rehabilitación,73,1147198.67
+,,,Con disponibilidad de terreno,18,7866614.41
+,,,Nueva,74,31854672.87
+,,,Usada,44,17372617.45
+,Veracruz de Ignacio de la Llave,enero,Ampliación y rehabilitación,214,271554.27
+,,,Con disponibilidad de terreno,1,969344.11
+,,,Nueva,247,109381843
+,,,Pago de pasivos,2,840977.76
+,,,Usada,343,155116512.3
+,Yucatán,enero,Ampliación y rehabilitación,300,2593757.48
+,,,Nueva,354,154673190.7
+,,,Usada,60,28907024.2
+,Zacatecas,enero,Ampliación y rehabilitación,107,
+,,,Con disponibilidad de terreno,72,33976171.01
+,,,Nueva,68,27986585.22
+,,,Usada,29,13136699.97
 ,,,total,1,1
